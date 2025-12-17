@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contactez l'équipe Bien Vivre à Perros 2026. Formulaire de contact, don, FAQ et coordonnées.">
+    <title>Contact - Bien Vivre à Perros 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+<body>
+    <header class="header">
+        <div class="header-container">
+            <a href="index.html" class="logo">
+                <div class="logo-text">Bien Vivre à Perros<span>Municipales 2026</span></div>
+            </a>
+            <nav class="nav-desktop">
+                <a href="index.html">Accueil</a>
+                <a href="programme.html">Programme</a>
+                <a href="equipe.html">L'équipe</a>
+                <a href="actualites.html">Actualités</a>
+                <a href="presse.html">Presse</a>
+                <a href="contact.html" class="nav-cta active">Contact</a>
+            </nav>
+            <button class="nav-toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+        </div>
+        <nav class="nav-mobile">
+            <a href="index.html">Accueil</a>
+            <a href="programme.html">Programme</a>
+            <a href="equipe.html">L'équipe</a>
+            <a href="actualites.html">Actualités</a>
+            <a href="presse.html">Presse</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section class="page-header">
+        <h1>Contactez-nous</h1>
+        <p>Une question, une suggestion, une envie de nous rejoindre ? Nous sommes à votre écoute.</p>
+        <div class="wave">
+            <svg viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+                <path class="shape-fill" d="M0,50 C150,100 350,0 500,50 C650,100 800,30 1000,60 C1200,90 1350,20 1440,50 L1440,100 L0,100 Z"></path>
+            </svg>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="section">
+        <div class="container">
+            <div class="grid grid-2" style="gap: 4rem;">
+                <!-- Formulaire -->
+                <div>
+                    <h2 style="margin-bottom: 1.5rem;">Écrivez-nous</h2>
+                    <form action="#" method="POST" id="contact-form">
+                        <div class="form-group">
+                            <label for="nom">Nom complet *</label>
+                            <input type="text" id="nom" name="nom" required placeholder="Votre nom et prénom">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email *</label>
+                            <input type="email" id="email" name="email" required placeholder="votre@email.fr">
+                        </div>
+                        <div class="form-group">
+                            <label for="objet">Objet</label>
+                            <select id="objet" name="objet">
+                                <option value="">Sélectionnez un sujet</option>
+                                <option value="question">Question sur le programme</option>
+                                <option value="rejoindre">Rejoindre l'équipe</option>
+                                <option value="don">Faire un don</option>
+                                <option value="presse">Contact presse</option>
+                                <option value="autre">Autre</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Votre message *</label>
+                            <textarea id="message" name="message" required placeholder="Votre message..."></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-accent">Envoyer le message</button>
+                    </form>
+                </div>
+                
+                <!-- Infos contact -->
+                <div>
+                    <h2 style="margin-bottom: 1.5rem;">Nos coordonnées</h2>
+                    <div class="card" style="margin-bottom: 2rem;">
+                        <h4>📍 Local de campagne</h4>
+                        <p style="color: var(--granite);">[Adresse à compléter]<br>22700 Perros-Guirec</p>
+                        <p style="color: var(--granite); font-style: italic;">Horaires d'ouverture à définir</p>
+                    </div>
+                    
+                    <div class="card" style="margin-bottom: 2rem;">
+                        <h4>📧 Email</h4>
+                        <p><a href="mailto:contact@bienvivre-perros.fr">contact@bienvivre-perros.fr</a></p>
+                    </div>
+                    
+                    <div class="card">
+                        <h4>🌐 Réseaux sociaux</h4>
+                        <div class="footer-social" style="margin-top: 1rem;">
+                            <a href="#" aria-label="Facebook" style="background: var(--bleu-ocean);">📘</a>
+                            <a href="#" aria-label="Instagram" style="background: var(--bleu-ocean);">📷</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Don -->
+    <section id="don" class="section section-alt">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-subtitle">💝 Soutenez-nous</span>
+                <h2>Faire un don</h2>
+                <p>Votre soutien financier nous permet de mener une campagne au plus près des habitants.</p>
+            </div>
+            
+            <div style="max-width: 700px; margin: 0 auto;">
+                <div class="card" style="text-align: center; padding: 3rem;">
+                    <p style="font-size: 1.15rem; margin-bottom: 2rem;">Les dons aux campagnes électorales sont encadrés par la loi. Tout don supérieur à 150€ ouvre droit à une réduction d'impôt de 66%.</p>
+                    
+                    <div style="background: var(--sable); padding: 2rem; border-radius: 12px; margin-bottom: 2rem;">
+                        <h4 style="margin-bottom: 1rem;">Exemple de réduction fiscale</h4>
+                        <p style="color: var(--granite); margin-bottom: 0;">Un don de <strong>150€</strong> ne vous coûte que <strong>51€</strong> après réduction d'impôt.</p>
+                    </div>
+                    
+                    <p style="color: var(--granite); font-size: 0.95rem; margin-bottom: 2rem;">Pour effectuer un don, veuillez nous contacter par email ou vous rendre à notre local de campagne. Un reçu fiscal vous sera délivré.</p>
+                    
+                    <a href="mailto:contact@bienvivre-perros.fr?subject=Don%20-%20Bien%20Vivre%20à%20Perros" class="btn btn-accent">Nous contacter pour faire un don</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-subtitle">❓ Questions fréquentes</span>
+                <h2>FAQ</h2>
+            </div>
+            
+            <div style="max-width: 800px; margin: 0 auto;">
+                <div class="faq-item">
+                    <button class="faq-question">Comment puis-je m'inscrire sur les listes électorales ?</button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Vous pouvez vous inscrire sur les listes électorales en ligne sur service-public.fr, en mairie, ou par courrier. La date limite d'inscription est généralement fixée au 6ème vendredi précédant le scrutin. Pensez à vérifier votre situation électorale dès maintenant !</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question">Comment puis-je rejoindre l'équipe de campagne ?</button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Nous accueillons avec plaisir toutes les bonnes volontés ! Vous pouvez nous contacter via le formulaire ci-dessus, par email, ou venir directement à notre local de campagne. Nous avons besoin de vous pour le tractage, le porte-à-porte, l'organisation d'événements...</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question">Quand auront lieu les élections municipales 2026 ?</button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Les élections municipales sont prévues en mars 2026. Les dates exactes seront officiellement annoncées par le gouvernement. Nous vous tiendrons informés dès que les dates seront confirmées.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question">Comment faire un don à votre campagne ?</button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Les dons aux campagnes électorales sont strictement encadrés par la loi. Pour faire un don, contactez-nous par email ou rendez-vous à notre local de campagne. Un reçu fiscal vous sera délivré pour tout don supérieur à 150€, vous permettant de bénéficier d'une réduction d'impôt de 66%.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question">Où puis-je consulter votre programme complet ?</button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Notre programme est disponible sur ce site dans la rubrique <a href="programme.html">Programme</a>. Vous pouvez également le télécharger en PDF dans notre <a href="presse.html">espace presse</a>. N'hésitez pas à venir en discuter avec nous lors de nos réunions publiques !</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-grid">
+            <div><h4>Bien Vivre à Perros</h4><p>Une équipe engagée pour l'avenir de Perros-Guirec. Ensemble, construisons une ville dynamique et solidaire.</p></div>
+            <div><h4>Navigation</h4><ul class="footer-links"><li><a href="index.html">Accueil</a></li><li><a href="programme.html">Notre programme</a></li><li><a href="equipe.html">L'équipe</a></li><li><a href="actualites.html">Actualités</a></li><li><a href="contact.html">Contact</a></li></ul></div>
+            <div><h4>Contact</h4><p>Local de campagne :<br>[Adresse à compléter]<br>22700 Perros-Guirec</p><p>Email : <a href="mailto:contact@bienvivre-perros.fr">contact@bienvivre-perros.fr</a></p></div>
+            <div><h4>Suivez-nous</h4><div class="footer-social"><a href="#" aria-label="Facebook">📘</a><a href="#" aria-label="Instagram">📷</a></div></div>
+        </div>
+        <div class="footer-bottom"><p>© 2025 Bien Vivre à Perros 2026 - Tous droits réservés | <a href="#">Mentions légales</a></p></div>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
