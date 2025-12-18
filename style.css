@@ -4,23 +4,29 @@
 
 /* Variables CSS */
 :root {
-    /* Palette principale - tons océaniques et bretons */
-    --bleu-ocean: #1a5f7a;
-    --bleu-profond: #0d3b4c;
-    --bleu-clair: #57a0c1;
-    --turquoise: #2d9596;
-    --sable: #f5e6d3;
+    /* Palette principale - Charte graphique Erven Léon 2026 */
+    --bleu-marine: #3D4A5C;
+    --bleu-profond: #3D4A5C;
+    --bleu-ocean: #3D4A5C;
+    --magenta: #E6007E;
+    --cyan: #00BCD4;
+    --turquoise: #00BCD4;
+    --bleu-clair: #00BCD4;
+    --gris-clair: #C5CAD4;
+    --sable: #f5f6f8;
     --granite: #6b7280;
     --blanc-casse: #fefefe;
-    --noir-doux: #1f2937;
-    
+    --noir-doux: #3D4A5C;
+
     /* Couleurs secondaires */
-    --accent-corail: #e07a5f;
-    --vert-nature: #4a7c59;
+    --accent-corail: #E6007E;
+    --vert-nature: #00BCD4;
     
     /* Typographie */
     --font-titre: 'Playfair Display', Georgia, serif;
     --font-corps: 'Source Sans 3', 'Segoe UI', sans-serif;
+    --font-hero: 'Oswald', 'Arial Narrow', sans-serif;
+    --font-script: 'Caveat', cursive;
     
     /* Espacements */
     --espace-xs: 0.5rem;
@@ -55,16 +61,18 @@ body {
 
 /* Typographie */
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-titre);
-    font-weight: 700;
+    font-family: var(--font-hero);
+    font-weight: 600;
     line-height: 1.2;
     color: var(--bleu-profond);
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
 }
 
-h1 { font-size: clamp(2.5rem, 5vw, 4rem); }
-h2 { font-size: clamp(2rem, 4vw, 3rem); }
-h3 { font-size: clamp(1.5rem, 3vw, 2rem); }
-h4 { font-size: 1.25rem; }
+h1 { font-size: clamp(2.5rem, 5vw, 4rem); font-weight: 700; }
+h2 { font-size: clamp(1.75rem, 3.5vw, 2.5rem); }
+h3 { font-size: clamp(1.25rem, 2.5vw, 1.5rem); }
+h4 { font-size: 1.1rem; }
 
 p {
     margin-bottom: 1rem;
@@ -115,6 +123,11 @@ img {
     gap: 0.75rem;
 }
 
+.logo-img {
+    height: 50px;
+    width: auto;
+}
+
 .logo-text {
     font-family: var(--font-titre);
     font-size: 1.5rem;
@@ -162,7 +175,7 @@ img {
 }
 
 .nav-cta {
-    background: var(--bleu-ocean);
+    background: var(--magenta);
     color: white !important;
     padding: 0.75rem 1.5rem !important;
     border-radius: 50px;
@@ -173,7 +186,7 @@ img {
 }
 
 .nav-cta:hover {
-    background: var(--turquoise);
+    background: #C5006A;
     transform: translateY(-2px);
 }
 
@@ -235,7 +248,7 @@ img {
     align-items: center;
     justify-content: center;
     position: relative;
-    background: linear-gradient(135deg, var(--bleu-profond) 0%, var(--bleu-ocean) 50%, var(--turquoise) 100%);
+    background: linear-gradient(135deg, var(--bleu-marine) 0%, #4A5568 50%, var(--cyan) 100%);
     overflow: hidden;
     padding-top: 80px;
 }
@@ -260,9 +273,23 @@ img {
 }
 
 .hero h1 {
+    font-family: var(--font-hero);
+    font-weight: 700;
+    text-transform: uppercase;
     color: white;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
     text-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    letter-spacing: 0.02em;
+}
+
+.hero-tagline {
+    font-family: var(--font-script);
+    font-size: clamp(1.75rem, 4vw, 2.75rem);
+    color: var(--cyan);
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    letter-spacing: 0.01em;
 }
 
 .hero-slogan {
@@ -350,14 +377,14 @@ img {
 }
 
 .btn-accent {
-    background: var(--bleu-ocean);
+    background: var(--magenta);
     color: white;
 }
 
 .btn-accent:hover {
-    background: var(--turquoise);
+    background: #C5006A;
     transform: translateY(-3px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 10px 30px rgba(230, 0, 126, 0.3);
     color: white;
 }
 
@@ -395,11 +422,12 @@ img {
 
 .section-subtitle {
     display: inline-block;
-    font-size: 0.875rem;
-    font-weight: 600;
-    color: var(--turquoise);
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
+    font-family: var(--font-script);
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--cyan);
+    text-transform: none;
+    letter-spacing: 0.01em;
     margin-bottom: 0.5rem;
 }
 
@@ -432,7 +460,7 @@ img {
 .card-icon {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, var(--bleu-ocean), var(--turquoise));
+    background: linear-gradient(135deg, var(--magenta), var(--cyan));
     border-radius: 12px;
     display: flex;
     align-items: center;
@@ -521,7 +549,7 @@ img {
 .theme-card {
     position: relative;
     padding: 2.5rem 2rem;
-    background: linear-gradient(135deg, var(--bleu-ocean) 0%, var(--turquoise) 100%);
+    background: linear-gradient(135deg, var(--bleu-marine) 0%, #4A5568 100%);
     color: white;
     border-radius: 20px;
     overflow: hidden;
@@ -559,13 +587,13 @@ img {
     color: var(--sable);
 }
 
-/* Variations de couleurs */
-.theme-environnement { background: linear-gradient(135deg, var(--vert-nature) 0%, #6b9f7a 100%); }
-.theme-securite { background: linear-gradient(135deg, var(--bleu-profond) 0%, var(--bleu-ocean) 100%); }
-.theme-economie { background: linear-gradient(135deg, var(--accent-corail) 0%, #e8a090 100%); }
-.theme-culture { background: linear-gradient(135deg, #7c5295 0%, #a07ab5 100%); }
-.theme-sport { background: linear-gradient(135deg, var(--turquoise) 0%, var(--bleu-clair) 100%); }
-.theme-tourisme { background: linear-gradient(135deg, #c9a227 0%, #e0c060 100%); }
+/* Variations de couleurs - palette charte graphique */
+.theme-environnement { background: linear-gradient(135deg, var(--cyan) 0%, #00A0B8 100%); }
+.theme-securite { background: linear-gradient(135deg, var(--bleu-marine) 0%, #4A5568 100%); }
+.theme-economie { background: linear-gradient(135deg, var(--magenta) 0%, #C5006A 100%); }
+.theme-culture { background: linear-gradient(135deg, #4A5568 0%, var(--cyan) 100%); }
+.theme-sport { background: linear-gradient(135deg, var(--cyan) 0%, var(--bleu-marine) 100%); }
+.theme-tourisme { background: linear-gradient(135deg, var(--magenta) 0%, var(--cyan) 100%); }
 
 /* ============================================
    FORMULAIRES
@@ -726,7 +754,7 @@ img {
    PAGE HEADER (pages internes)
    ============================================ */
 .page-header {
-    background: linear-gradient(135deg, var(--bleu-profond) 0%, var(--bleu-ocean) 100%);
+    background: linear-gradient(135deg, var(--bleu-marine) 0%, #4A5568 50%, var(--cyan) 100%);
     color: white;
     padding: 10rem 2rem 5rem;
     text-align: center;
@@ -764,6 +792,12 @@ img {
     gap: 3rem;
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.footer-baseline {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 1rem;
 }
 
 .footer h4 {
