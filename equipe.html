@@ -203,5 +203,11 @@
         </div>
         <div class="footer-bottom"><p>© 2025 Bien Vivre à Perros 2026 - Tous droits réservés | <a href="#">Mentions légales</a></p></div>
     </footer>
+    <script>
+        document.querySelector('.nav-toggle').addEventListener('click', function() {
+            document.querySelector('.nav-mobile').classList.toggle('active');
+            this.classList.toggle('active');
+        });
+    </script>
 </body>
 </html>
