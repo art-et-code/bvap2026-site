@@ -631,13 +631,13 @@ img {
     color: var(--sable);
 }
 
-/* Variations de couleurs - palette charte graphique */
-.theme-environnement { background: linear-gradient(135deg, var(--cyan) 0%, #00A0B8 100%); }
-.theme-securite { background: linear-gradient(135deg, var(--bleu-marine) 0%, #4A5568 100%); }
-.theme-economie { background: linear-gradient(135deg, var(--magenta) 0%, #C5006A 100%); }
-.theme-culture { background: linear-gradient(135deg, #4A5568 0%, var(--cyan) 100%); }
-.theme-sport { background: linear-gradient(135deg, var(--cyan) 0%, var(--bleu-marine) 100%); }
-.theme-tourisme { background: linear-gradient(135deg, var(--magenta) 0%, var(--cyan) 100%); }
+/* Variations de couleurs - palette charte graphique (page accueil uniquement) */
+.theme-card.theme-environnement { background: linear-gradient(135deg, var(--cyan) 0%, #00A0B8 100%); }
+.theme-card.theme-securite { background: linear-gradient(135deg, var(--bleu-marine) 0%, #4A5568 100%); }
+.theme-card.theme-economie { background: linear-gradient(135deg, var(--magenta) 0%, #C5006A 100%); }
+.theme-card.theme-culture { background: linear-gradient(135deg, #4A5568 0%, var(--cyan) 100%); }
+.theme-card.theme-sport { background: linear-gradient(135deg, var(--cyan) 0%, var(--bleu-marine) 100%); }
+.theme-card.theme-tourisme { background: linear-gradient(135deg, var(--magenta) 0%, var(--cyan) 100%); }
 
 /* ============================================
    FORMULAIRES
