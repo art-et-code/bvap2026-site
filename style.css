@@ -412,33 +412,34 @@ img {
 }
 
 /* Sections thématiques avec cartes colorées (même style que page accueil) */
-.section-theme .card {
+.section.section-theme .card {
     color: white;
     border-radius: 16px;
+    border: none;
 }
-.section-theme .card h3 {
+.section.section-theme .card h3 {
     color: white;
 }
-.section-theme .card p {
+.section.section-theme .card p {
     color: rgba(255, 255, 255, 0.9);
 }
 
-.section-theme.theme-environnement .card {
+.section.section-theme.theme-environnement .card {
     background: linear-gradient(135deg, var(--cyan) 0%, #00A0B8 100%);
 }
-.section-theme.theme-sport .card {
+.section.section-theme.theme-sport .card {
     background: linear-gradient(135deg, var(--cyan) 0%, var(--bleu-marine) 100%);
 }
-.section-theme.theme-culture .card {
+.section.section-theme.theme-culture .card {
     background: linear-gradient(135deg, #4A5568 0%, var(--cyan) 100%);
 }
-.section-theme.theme-economie .card {
+.section.section-theme.theme-economie .card {
     background: linear-gradient(135deg, var(--magenta) 0%, #C5006A 100%);
 }
-.section-theme.theme-securite .card {
+.section.section-theme.theme-securite .card {
     background: linear-gradient(135deg, var(--bleu-marine) 0%, #4A5568 100%);
 }
-.section-theme.theme-tourisme .card {
+.section.section-theme.theme-tourisme .card {
     background: linear-gradient(135deg, var(--magenta) 0%, var(--cyan) 100%);
 }
 
