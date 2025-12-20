@@ -411,6 +411,65 @@ img {
     background: linear-gradient(180deg, var(--sable) 0%, var(--blanc-casse) 100%);
 }
 
+/* Sections thématiques avec accents colorés */
+.section-theme {
+    position: relative;
+    border-top: 4px solid var(--cyan);
+}
+
+.section-theme::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    opacity: 0.03;
+    pointer-events: none;
+}
+
+.section-theme.theme-environnement {
+    border-top-color: #4CAF50;
+}
+.section-theme.theme-environnement::before {
+    background: linear-gradient(180deg, #4CAF50 0%, transparent 30%);
+}
+
+.section-theme.theme-sport {
+    border-top-color: var(--cyan);
+}
+.section-theme.theme-sport::before {
+    background: linear-gradient(180deg, var(--cyan) 0%, transparent 30%);
+}
+
+.section-theme.theme-culture {
+    border-top-color: var(--magenta);
+}
+.section-theme.theme-culture::before {
+    background: linear-gradient(180deg, var(--magenta) 0%, transparent 30%);
+}
+
+.section-theme.theme-economie {
+    border-top-color: #FF9800;
+}
+.section-theme.theme-economie::before {
+    background: linear-gradient(180deg, #FF9800 0%, transparent 30%);
+}
+
+.section-theme.theme-securite {
+    border-top-color: var(--bleu-marine);
+}
+.section-theme.theme-securite::before {
+    background: linear-gradient(180deg, var(--bleu-marine) 0%, transparent 30%);
+}
+
+.section-theme.theme-tourisme {
+    border-top-color: #9C27B0;
+}
+.section-theme.theme-tourisme::before {
+    background: linear-gradient(180deg, #9C27B0 0%, transparent 30%);
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
