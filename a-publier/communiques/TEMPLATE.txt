@@ -1,0 +1,18 @@
+=====================================
+NOUVEAU COMMUNIQUÉ DE PRESSE
+=====================================
+
+Date: JJ/MM/AAAA
+Titre:
+Fichier PDF: (nom du fichier PDF à joindre)
+
+-------------------------------------
+Exemple :
+-------------------------------------
+Date: 05/02/2026
+Titre: Bilan de la réunion publique du 5 février
+Fichier PDF: CP_2026-02-05_reunion-publique.pdf
+
+-------------------------------------
+Note : Joindre le fichier PDF dans ce même dossier
+-------------------------------------

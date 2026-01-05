@@ -1,0 +1,96 @@
+=====================================================================
+  GUIDE POUR L'ÉQUIPE COMMUNICATION
+  Mise à jour du site Bien Vivre à Perros
+=====================================================================
+
+Bonjour !
+
+Ce guide explique comment préparer les contenus pour le site web.
+Transmettez les informations à Anne qui se chargera des mises à jour.
+
+=====================================================================
+1. ACTUALITÉS
+=====================================================================
+
+Pour chaque nouvelle actualité, fournir :
+
+   - Date (JJ/MM/AAAA)
+   - Titre (court et accrocheur)
+   - Résumé (2-3 phrases)
+   - Lien (optionnel : vers un article, PDF, etc.)
+
+EXEMPLE :
+---------
+Date: 15/02/2026
+Titre: Succès de notre première réunion publique
+Résumé: Plus de 150 personnes ont assisté à notre réunion
+publique du 5 février. Un moment d'échange riche sur les
+enjeux de notre commune.
+
+
+=====================================================================
+2. COMMUNIQUÉS DE PRESSE
+=====================================================================
+
+Pour chaque communiqué, fournir :
+
+   - Date (JJ/MM/AAAA)
+   - Titre du communiqué
+   - Fichier PDF du communiqué
+
+EXEMPLE :
+---------
+Date: 05/02/2026
+Titre: Bilan de la réunion publique du 5 février
+Fichier: CP_2026-02-05_reunion-publique.pdf
+
+
+=====================================================================
+3. PHOTOS POUR LA GALERIE
+=====================================================================
+
+Pour les photos :
+
+   - Format : JPG ou PNG
+   - Qualité : bonne résolution (min. 1200px de large)
+   - Orientation : paysage de préférence
+
+NOMMAGE RECOMMANDÉ :
+   AAAA-MM-JJ_description.jpg
+
+EXEMPLES :
+   - 2026-02-05_reunion-publique-salle.jpg
+   - 2026-02-25_tournee-trestraou-01.jpg
+   - 2026-03-08_marche-la-clarte.jpg
+
+
+=====================================================================
+4. COMMENT TRANSMETTRE ?
+=====================================================================
+
+Vous pouvez envoyer les informations par :
+
+   - Email à Anne
+   - Message WhatsApp
+   - Fichier partagé (Google Drive, etc.)
+
+Pour les photos volumineuses, utilisez un service de transfert
+comme WeTransfer ou un dossier partagé.
+
+
+=====================================================================
+5. DÉLAIS
+=====================================================================
+
+   - Actualités urgentes : mise en ligne sous 24h
+   - Actualités standards : mise en ligne sous 48h
+   - Photos galerie : regroupées et publiées régulièrement
+
+
+=====================================================================
+CONTACT
+=====================================================================
+
+Pour toute question sur le site web, contactez Anne.
+
+=====================================================================

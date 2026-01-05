@@ -1,0 +1,23 @@
+=====================================
+PHOTOS POUR LA GALERIE
+=====================================
+
+Déposez vos photos ici.
+
+FORMAT RECOMMANDÉ :
+- JPG ou PNG
+- Bonne qualité (min. 1200px de large)
+- Paysage de préférence
+
+NOMMAGE DES FICHIERS :
+AAAA-MM-JJ_description.jpg
+
+Exemples :
+- 2026-02-05_reunion-publique-salle.jpg
+- 2026-02-05_reunion-publique-public.jpg
+- 2026-02-25_tournee-trestraou-01.jpg
+
+-------------------------------------
+Note : Les photos seront redimensionnées
+automatiquement pour le site.
+-------------------------------------
