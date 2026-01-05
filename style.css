@@ -790,7 +790,8 @@ img {
     color: var(--granite);
 }
 
-.faq-answer-content ul {
+.faq-answer-content ul,
+.faq-answer-content ol {
     margin: 0.75rem 0;
     padding-left: 1.5rem;
 }
