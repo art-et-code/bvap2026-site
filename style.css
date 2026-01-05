@@ -972,6 +972,13 @@ img {
     }
 }
 
+/* Tête de liste - horizontal sur desktop */
+@media (min-width: 768px) {
+    .tete-liste-grid {
+        flex-direction: row !important;
+    }
+}
+
 /* ============================================
    PRESSE & DOWNLOADS
    ============================================ */
