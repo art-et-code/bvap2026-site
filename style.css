@@ -304,6 +304,20 @@ img {
     letter-spacing: 0.01em;
 }
 
+.hero-baseline {
+    max-width: 650px;
+    width: 90%;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+    .hero-baseline {
+        max-width: 100%;
+        width: 95%;
+    }
+}
+
 .hero-slogan {
     font-size: clamp(1.25rem, 2.5vw, 1.75rem);
     opacity: 0.95;
