@@ -1,0 +1,506 @@
+=====================================================================
+CONTENU DU SITE - BIEN VIVRE À PERROS 2026
+Document pour relecture par l'équipe communication
+Généré le 7 janvier 2026
+=====================================================================
+
+Pour chaque section, merci d'indiquer vos commentaires/corrections
+en ajoutant [COMMENTAIRE: votre texte] à côté du passage concerné.
+
+
+=====================================================================
+PAGE ACCUEIL (index.html)
+=====================================================================
+
+HERO (bandeau principal)
+------------------------
+[Image : Bien Vivre à Perros - aujourd'hui et demain]
+
+Ensemble, construisons l'avenir de notre commune
+
+Une équipe engagée, à l'écoute des habitants, pour une ville dynamique, solidaire et respectueuse de notre environnement exceptionnel.
+
+Boutons : "Découvrir notre programme" / "Nous soutenir"
+
+
+SECTION "NOS ENGAGEMENTS"
+-------------------------
+Sous-titre : Notre programme
+Titre : Nos engagements pour Perros-Guirec
+Description : Des propositions concrètes pour répondre aux besoins de tous les habitants.
+
+6 cartes thématiques :
+
+1. Environnement & Urbanisme
+   Préserver notre cadre de vie exceptionnel et accompagner un développement durable.
+
+2. Sport & Bien-être
+   Développer les infrastructures sportives et promouvoir l'activité physique pour tous.
+
+3. Culture & Animation
+   Enrichir la vie culturelle et renforcer le lien social toute l'année.
+
+4. Économie locale
+   Soutenir nos commerces, artisans et entrepreneurs locaux.
+
+5. Sécurité & Numérique
+   Garantir la tranquillité des habitants et moderniser les services.
+
+6. Tourisme durable
+   Valoriser notre patrimoine tout en préservant la qualité de vie des résidents.
+
+
+SECTION "ACTUALITÉS"
+--------------------
+Sous-titre : Restez informés
+Titre : Actualités & Événements
+Description : Les dernières nouvelles de notre campagne et les prochains rendez-vous à ne pas manquer.
+
+3 cartes actualités :
+
+1. 13 janvier 2026 - Lancement officiel de notre campagne
+   C'est officiel ! Notre liste "Bien Vivre à Perros" lance sa campagne pour les municipales 2026.
+
+2. 5 février 2026 - Réunion publique
+   Présentation de notre projet et échange avec les habitants. Venez nombreux !
+
+3. Dès le 13 février - Permanences au local
+   Retrouvez-nous au 9 rue de la Poste. Mercredi, vendredi, samedi et dimanche.
+
+
+SECTION "APPEL AU DON"
+----------------------
+Titre : Ensemble, faisons vivre la démocratie locale
+Texte : Votre soutien est précieux pour mener une campagne au plus près des habitants. Rejoignez-nous !
+Boutons : "Faire un don" / "Nous contacter"
+
+
+PIED DE PAGE (présent sur toutes les pages)
+-------------------------------------------
+[Image baseline]
+Une équipe engagée pour l'avenir de Perros-Guirec. Ensemble, construisons une ville dynamique et solidaire.
+
+Contact :
+Local de campagne :
+9 rue de la Poste
+22700 Perros-Guirec
+Email : contact@bienvivreaperros.fr
+
+Réseaux sociaux : Facebook, Instagram, WhatsApp
+
+© 2026 Bien Vivre à Perros - Tous droits réservés
+
+
+=====================================================================
+PAGE PROGRAMME (programme.html)
+=====================================================================
+
+EN-TÊTE
+-------
+Titre : Notre Programme
+Description : Des propositions concrètes pour une commune dynamique, solidaire et durable.
+
+
+CONTENU PRINCIPAL
+-----------------
+Titre : Encore un peu de patience...
+
+Le programme sera bientôt dévoilé. En attendant, n'hésitez pas à nous contacter pour échanger sur vos idées et vos attentes.
+
+Boutons : "Nous contacter" / "Suivre l'actualité"
+
+
+=====================================================================
+PAGE L'ÉQUIPE (equipe.html)
+=====================================================================
+
+EN-TÊTE
+-------
+Titre : Notre Équipe
+Description : Des femmes et des hommes engagés, au service de Perros-Guirec.
+
+
+SECTION "QUI SOMMES-NOUS"
+-------------------------
+Sous-titre : Qui sommes-nous ?
+Titre : Bien Vivre à Perros
+Sous-titre stylisé : aujourd'hui et demain
+
+Bien Vivre à Perros, aujourd'hui et demain est une liste citoyenne qui se présente aux élections municipales de mars 2026 à Perros-Guirec (Côtes-d'Armor, Bretagne).
+
+Menée par Erven LEON, notre équipe rassemble des femmes et des hommes engagés pour construire une commune dynamique, solidaire et respectueuse de son environnement exceptionnel.
+
+Notre programme s'articule autour de 6 axes : environnement, sport, culture, économie locale, sécurité numérique et tourisme durable.
+
+
+SECTION "TÊTE DE LISTE"
+-----------------------
+Sous-titre : Tête de liste
+Titre : Erven LEON
+
+[Photo Erven LEON]
+
+[Biographie à compléter : parcours professionnel, engagement local, motivations pour la commune...]
+
+Perrosien engagé, Erven LEON porte une vision ambitieuse et réaliste pour notre commune. Fort de son expérience et de sa connaissance du terrain, il s'entoure d'une équipe diverse et compétente pour construire ensemble l'avenir de Perros-Guirec.
+
+
+SECTION "LES COLISTIERS"
+------------------------
+Sous-titre : Ensemble
+Titre : Les Colistiers
+Description : Une équipe diverse, représentative de toutes les sensibilités de notre commune.
+
+Liste des 30 colistiers (ordre alphabétique) :
+- Patrick AUDRAIN
+- Jean-Claude BANCHEREAU
+- Christophe BETOULE
+- Bernard CAMBIER
+- Grégory CHAEN
+- Lénaïck COCHARD
+- Christian DANIEL
+- Antoine EUVRARD
+- Erwan FAJOLLES
+- Cindy GERME
+- Mathieu GUILLOU
+- Anne HARDY
+- Jean-Yves KERAUDY
+- Marie-Charlotte KEREUN
+- Gaëlle LARGET
+- Fiona LE GUEN
+- Muriel LEBRETON
+- Thierry LOCATELLI
+- Patrick LOISEL
+- Guy MARECHAL
+- Flore MARTIN BANCHEREAU
+- Amélie MELEDER SALAGNAC
+- Maria MESQUITA
+- Catherine PONTAILLER
+- Laurence RETO
+- Xavier ROPARTZ
+- Soazic ROYER
+- Antoine SALIOU
+- Caroline SCHWEITZER
+- Cynthia VALLET
+
+
+SECTION "NOS VALEURS"
+---------------------
+Sous-titre : Ce qui nous guide
+Titre : Nos Valeurs
+
+1. Responsabilité
+   Assumer pleinement nos décisions et leurs conséquences, agir avec conscience pour l'intérêt général de notre commune.
+
+2. Humilité
+   Rester à l'écoute, reconnaître nos limites et apprendre de chacun. Le service public se fait avec modestie.
+
+3. Intégrité
+   Agir avec droiture et honnêteté en toutes circonstances. Nos actes sont en accord avec nos paroles.
+
+4. Engagement
+   Nous nous investissons pleinement au service de Perros-Guirec et de ses habitants, avec détermination et persévérance.
+
+5. Transparence
+   Une gestion municipale claire où chaque décision est expliquée et justifiée. Pas de zones d'ombre.
+
+6. Disponibilité
+   Être présents et accessibles pour tous les Perrosiens. Notre porte est toujours ouverte pour vous écouter.
+
+
+SECTION "REJOINDRE"
+-------------------
+Titre : Vous souhaitez nous rejoindre ?
+Texte : Notre équipe est ouverte à tous ceux qui partagent nos valeurs et veulent s'engager pour Perros-Guirec.
+Bouton : "Nous contacter"
+
+
+=====================================================================
+PAGE ACTUALITÉS (actualites.html)
+=====================================================================
+
+EN-TÊTE
+-------
+Titre : Actualités & Agenda
+Description : Suivez notre campagne et retrouvez-nous lors de nos prochains événements.
+
+
+SECTION "PERMANENCES"
+---------------------
+Titre : Permanences
+Texte : Retrouvez-nous à partir du 13 février à notre local de campagne
+Adresse : 9 rue de la Poste, Perros-Guirec
+
+Horaires :
+- Mercredi / Vendredi / Dimanche : 10h30 - 12h30
+- Samedi : 10h30 - 12h30 et 15h30 - 18h30
+
+
+SECTION "RÉUNIONS PUBLIQUES"
+----------------------------
+Titre : Réunions publiques
+
+1. 05 février - Réunion publique
+   Présentation de notre projet et échange avec les habitants.
+   Lieu : [Lieu à confirmer]
+
+2. 13 mars - Réunion publique
+   Venez échanger avec notre équipe sur notre programme pour Perros-Guirec.
+   Lieu : [Lieu à confirmer]
+
+
+SECTION "TOURNÉE DES QUARTIERS"
+-------------------------------
+Titre : Tournée des quartiers
+Description : Venez nous rencontrer près de chez vous !
+
+1. 26 février - Kervoilan / Kerabram
+   Parking du gymnase - 11h
+
+2. 27 février - Centre ville
+   Place du marché - 11h
+
+3. 28 février - Trestrignel
+   Sur le parking - 11h
+
+4. 1er mars - Trestraou
+   À la Rotonde - 11h
+
+5. 4 mars - La Rade
+   Sur le marché - 11h
+
+6. 5 mars - Ploumanac'h
+   Parking de St Guirec - 11h
+
+7. 6 mars - Centre ville
+   Place du marché - 11h
+
+8. 8 mars - Kervélégan / Kernivinen
+   À la chapelle - 11h
+
+9. 9 mars - La Clarté
+   Sur le marché - 11h
+
+10. 11 mars - La Rade
+    Sur le marché - 11h
+
+11. 13 mars - Centre ville
+    Place du marché - 11h
+
+
+SECTION "ACTUALITÉS"
+--------------------
+Sous-titre : À la une
+Titre : Dernières Actualités
+
+1. 13 janvier 2026 - Lancement officiel de notre campagne
+   C'est officiel ! Notre liste "Bien Vivre à Perros" lance sa campagne pour les municipales 2026. Une équipe motivée et des idées concrètes pour notre commune.
+
+2. À venir - Présentation du programme complet
+   Notre programme détaillé sera bientôt disponible. Environnement, sport, culture, économie... Découvrez nos propositions pour chaque thématique.
+
+
+SECTION "GALERIE"
+-----------------
+Sous-titre : En images
+Titre : Galerie Photo
+Description : Retrouvez les moments forts de notre campagne.
+
+Texte : La galerie photo sera bientôt disponible. Suivez-nous sur les réseaux sociaux pour ne rien manquer !
+
+
+=====================================================================
+PAGE PRESSE (presse.html)
+=====================================================================
+
+EN-TÊTE
+-------
+Titre : Espace Presse
+Description : Retrouvez tous nos documents officiels et ressources de communication.
+
+
+SECTION "CONTACT PRESSE"
+------------------------
+Sous-titre : Contact presse
+Titre : Relations médias
+
+Pour toute demande d'interview, d'information ou de couverture médiatique, notre équipe presse est à votre disposition.
+
+Email : presse@bienvivreaperros.fr
+
+Nous nous engageons à répondre à vos demandes dans les meilleurs délais.
+
+
+SECTION "KIT DE COMMUNICATION"
+------------------------------
+Sous-titre : Ressources
+Titre : Kit de Communication
+Description : Téléchargez nos visuels et documents officiels.
+
+1. Logo et charte graphique
+   Logo en différents formats et guide d'utilisation
+   Statut : Bientôt
+
+2. Documents de campagne
+   Tracts, affiches et supports de communication
+   Statut : Bientôt
+
+
+SECTION "COMMUNIQUÉS DE PRESSE"
+-------------------------------
+Sous-titre : Communiqués
+Titre : Communiqués de Presse
+
+1. 13 janvier 2026 - Lancement officiel de la liste "Bien Vivre à Perros, aujourd'hui et demain"
+   Statut : Bientôt
+
+Note : Les prochains communiqués seront publiés ici au fil de la campagne.
+
+
+=====================================================================
+PAGE CONTACT (contact.html)
+=====================================================================
+
+EN-TÊTE
+-------
+Titre : Contactez-nous
+Description : Une question, une suggestion, une envie de nous rejoindre ? Nous sommes à votre écoute.
+
+
+SECTION "CONTACT"
+-----------------
+Titre : Écrivez-nous
+[Formulaire Google intégré]
+
+Titre : Nos coordonnées
+
+Local de campagne :
+9 rue de la Poste
+22700 Perros-Guirec
+
+Permanences à partir du 13 février :
+- Mercredi, vendredi, dimanche : 10h30 - 12h30
+- Samedi : 10h30 - 12h30 et 15h30 - 18h30
+
+Email : contact@bienvivreaperros.fr
+
+Réseaux sociaux : Facebook, Instagram, WhatsApp
+
+
+SECTION "FAIRE UN DON"
+----------------------
+Sous-titre : Soutenez-nous
+Titre : Faire un don
+Description : Votre soutien financier nous permet de mener une campagne au plus près des habitants.
+
+Les dons aux campagnes électorales sont encadrés par la loi. Tout don supérieur à 150€ ouvre droit à une réduction d'impôt de 66%.
+
+Exemple de réduction fiscale :
+Un don de 150€ ne vous coûte que 51€ après réduction d'impôt.
+
+Pour effectuer un don, veuillez nous contacter par email ou vous rendre à notre local de campagne. Un reçu fiscal vous sera délivré.
+
+Bouton : "Nous contacter pour faire un don"
+
+
+SECTION "FAQ"
+-------------
+Sous-titre : Questions fréquentes
+Titre : FAQ
+
+1. Comment puis-je m'inscrire sur les listes électorales ?
+   Toute personne âgée de 18 ans (ou les atteignant au plus tard la veille du scrutin) peut s'inscrire sur les listes électorales. L'inscription est simple et gratuite, trois solutions existent :
+   - En ligne sur le site officiel service-public.fr
+   - En mairie, au service élections, sur présentation des documents requis
+   - Par courrier, en adressant le formulaire et les justificatifs à la mairie
+   Documents nécessaires : une pièce d'identité en cours de validité et un justificatif de domicile (ou une attestation d'hébergement).
+   Attention aux délais : l'inscription doit être effectuée au plus tard le 6ᵉ vendredi précédant l'élection.
+   Une fois inscrit(e), vous pourrez voter dans votre bureau de vote de rattachement et participer pleinement à la vie démocratique locale.
+
+2. Comment puis-je rejoindre l'équipe de campagne ?
+   La campagne est avant tout une aventure collective, ouverte à toutes celles et ceux qui souhaitent s'engager pour l'avenir de Perros. Vous pouvez rejoindre l'équipe Bien Vivre à Perros à votre rythme et selon vos envies :
+   - Participation aux temps d'échanges et réunions
+   - Aide ponctuelle lors des actions de terrain
+   - Contribution aux réflexions et aux projets
+   - Appui logistique ou compétences spécifiques (communication, organisation, numérique, etc.)
+   Pour nous rejoindre :
+   - Remplir le formulaire de contact disponible sur le site
+   - Nous écrire directement à : contact@bienvivreaperros.fr
+   Chaque engagement compte. Petit ou grand, ponctuel ou régulier, il contribue à faire avancer le projet collectif.
+
+3. Quand auront lieu les élections municipales 2026 ?
+   Les élections municipales auront lieu en mars 2026 :
+   - 1er tour : dimanche 15 mars 2026
+   - 2ᵉ tour : dimanche 22 mars 2026 (si nécessaire)
+   Ces élections permettront d'élire les équipes municipales pour un mandat de six ans.
+
+4. Comment faire un don à Bien Vivre à Perros ?
+   Les dons à la campagne sont possibles et strictement encadrés par la loi afin de garantir transparence et équité.
+   Pour faire un don :
+   - Contacter l'équipe via la rubrique Contact du site
+   - Remplir le formulaire dédié, afin d'obtenir les coordonnées du mandataire et les modalités de versement
+   À savoir :
+   - Seuls les particuliers peuvent faire un don (les entreprises et associations ne sont pas autorisées)
+   - Le montant des dons est plafonné par la loi
+   - Un reçu officiel est délivré pour chaque don, ouvrant droit, sous conditions, à une réduction fiscale
+   Chaque contribution, quelle que soit son ampleur, participe au bon déroulement de la campagne.
+
+5. Où puis-je consulter votre programme complet ?
+   Vous pouvez consulter le programme complet de Bien Vivre à Perros :
+   - Sur notre site web, rubrique Programme
+   - En version PDF téléchargeable dans l'espace presse
+   - À notre local de campagne, 9 rue de la Poste, aux horaires de permanence
+   - Lors de nos réunions publiques ou événements de terrain
+   Si vous souhaitez une version imprimée ou une remise en main propre, n'hésitez pas à nous le demander via le formulaire de contact — on vous l'envoie avec plaisir.
+
+6. Où se trouve votre local de campagne et quels sont les horaires ?
+   Notre local de campagne est situé au cœur de Perros-Guirec :
+   Adresse : 9 rue de la Poste, 22700 Perros-Guirec
+   Horaires de permanence (à partir du 13 février) :
+   - Mercredi, vendredi, dimanche : 10h30 - 12h30
+   - Samedi : 10h30 - 12h30 et 15h30 - 18h30
+   Venez nous rencontrer, échanger sur le programme, poser vos questions ou simplement prendre un café. L'équipe vous accueille avec plaisir.
+
+7. Comment puis-je recevoir vos actualités ?
+   Pour suivre notre campagne et rester informé(e), plusieurs options s'offrent à vous :
+   - Facebook : @bvap2026
+   - Instagram : @bvap2026
+   - WhatsApp : rejoignez notre canal d'information
+   - Site web : consultez régulièrement la rubrique Actualités
+   Vous pouvez également nous laisser vos coordonnées via le formulaire de contact pour recevoir nos informations par email.
+
+8. Comment voter par procuration si je suis absent le jour du scrutin ?
+   Si vous êtes absent le jour du vote, vous pouvez donner procuration à un électeur inscrit dans la même commune.
+   Démarche :
+   - En ligne sur maprocuration.gouv.fr (puis validation en personne)
+   - Au commissariat ou à la gendarmerie
+   - Au tribunal judiciaire
+   À savoir :
+   - La personne choisie (mandataire) doit être inscrite sur les listes électorales de Perros-Guirec
+   - Un mandataire peut détenir au maximum deux procurations (une établie en France, une à l'étranger)
+   - La procuration peut être établie pour un seul scrutin ou pour une durée déterminée
+   Anticipez votre démarche pour voter même en cas d'absence.
+
+9. Comment se déroule le vote le jour J ?
+   Le jour de l'élection, voici les étapes :
+   1. Se présenter à son bureau de vote muni d'une pièce d'identité
+   2. Prendre les bulletins de vote et une enveloppe
+   3. Passer dans l'isoloir (obligatoire)
+   4. Déposer l'enveloppe dans l'urne
+   5. Signer le registre d'émargement
+   Horaires : les bureaux de vote sont généralement ouverts de 8h à 18h (horaires confirmés par arrêté préfectoral).
+   N'oubliez pas votre pièce d'identité !
+
+10. Où trouver mon bureau de vote ?
+    Pour connaître votre bureau de vote :
+    - En ligne : sur service-public.fr, rubrique "Vérifier votre inscription électorale"
+    - Sur votre carte électorale : l'adresse du bureau y figure
+    - En mairie : le service élections peut vous renseigner
+    Si vous avez déménagé récemment, vérifiez que votre inscription a bien été mise à jour.
+
+
+=====================================================================
+FIN DU DOCUMENT
+=====================================================================
+
+Merci de retourner ce document avec vos commentaires à Anne.
