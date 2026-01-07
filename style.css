@@ -1183,6 +1183,19 @@ img {
     color: white;
 }
 
+.download-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-left: auto;
+}
+
+.download-links .download-btn {
+    margin-left: 0;
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+}
+
 /* Don section */
 .don-section {
     background: linear-gradient(135deg, var(--sable) 0%, #fff 100%);
