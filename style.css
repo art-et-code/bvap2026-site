@@ -1256,6 +1256,46 @@ img {
     font-size: 1.1rem;
 }
 
+/* Mentions légales */
+.mentions-legales {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.mentions-block {
+    margin-bottom: 2.5rem;
+}
+
+.mentions-block h2 {
+    font-size: 1.4rem;
+    color: var(--bleu-ocean);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--sable);
+}
+
+.mentions-block p {
+    margin-bottom: 0.75rem;
+    line-height: 1.7;
+}
+
+.mentions-block ul {
+    margin: 0.75rem 0;
+    padding-left: 1.5rem;
+}
+
+.mentions-block li {
+    margin-bottom: 0.25rem;
+}
+
+.mentions-block a {
+    color: var(--bleu-ocean);
+}
+
+.mentions-block a:hover {
+    color: var(--turquoise);
+}
+
 /* Don section */
 .don-section {
     background: linear-gradient(135deg, var(--sable) 0%, #fff 100%);
