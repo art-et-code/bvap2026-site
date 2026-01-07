@@ -37,13 +37,31 @@
 1. Se connecter à Cloudflare : https://dash.cloudflare.com
 2. Sélectionner le domaine `bienvivreaperros.fr`
 3. Aller dans **DNS** → **Records**
-4. Supprimer les anciens enregistrements A/CNAME pour @ et www (si existants)
-5. Ajouter les enregistrements suivants :
 
-| Type  | Nom (Name) | Contenu (Target)       | Proxy |
-|-------|------------|------------------------|-------|
-| CNAME | @          | art-et-code.github.io  | Oui   |
-| CNAME | www        | art-et-code.github.io  | Oui   |
+### Records à MODIFIER (site web uniquement)
+
+| Action | Type | Nom | Contenu actuel | Nouveau contenu |
+|--------|------|-----|----------------|-----------------|
+| **Supprimer** | A | @ | 13.248.243.5 | - |
+| **Supprimer** | A | @ | 76.223.105.230 | - |
+| **Ajouter** | CNAME | @ | - | art-et-code.github.io (Proxied) |
+| **Modifier** | CNAME | www | bienvivreaperros.fr | art-et-code.github.io (Proxied) |
+
+### Records à NE PAS TOUCHER (email + système)
+
+| Type | Nom | Contenu | Raison |
+|------|-----|---------|--------|
+| MX | @ | route1.mx.cloudflare.net | Email Cloudflare |
+| MX | @ | route2.mx.cloudflare.net | Email Cloudflare |
+| MX | @ | route3.mx.cloudflare.net | Email Cloudflare |
+| TXT | @ | v=spf1 include:_spf.mx... | SPF (auth email) |
+| TXT | cf2024-1._domainkey | v=DKIM1... | DKIM (auth email) |
+| TXT | _dmarc | v=DMARC1... | DMARC (auth email) |
+| NS | @ | ns81.domaincontrol.com | Serveurs DNS |
+| NS | @ | ns82.domaincontrol.com | Serveurs DNS |
+| CNAME | _domainconnect | _domainconnect.gd... | GoDaddy (inoffensif) |
+
+> **IMPORTANT** : Ne pas toucher aux records MX, TXT, NS sinon l'email contact@bienvivreaperros.fr ne fonctionnera plus !
 
 ---
 
