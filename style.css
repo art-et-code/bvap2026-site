@@ -1195,6 +1195,7 @@ img {
     margin-left: 0;
     padding: 0.5rem 1rem;
     font-size: 0.85rem;
+    border: 2px solid var(--bleu-ocean);
 }
 
 .download-btn.btn-view {
