@@ -432,13 +432,13 @@
                         <p>Logo, favicon et éléments graphiques de la campagne</p>
                     </div>
                     <div class="download-links">
-                        <a href="images/Elements%20graphiques_LOGO.png" download class="download-btn">Logo PNG</a>
-                        <a href="images/Elements%20graphiques_FAVICON%20Fond%20clair.png" download class="download-btn">Favicon clair</a>
-                        <a href="images/Elements%20graphiques_FAVICON%20Fond%20fonc%C3%A9.png" download class="download-btn">Favicon foncé</a>
+                        <a href="images/Elements%20graphiques_LOGO.png" class="download-btn lightbox-trigger">Logo PNG</a>
+                        <a href="images/Elements%20graphiques_FAVICON%20Fond%20clair.png" class="download-btn lightbox-trigger">Favicon clair</a>
+                        <a href="images/Elements%20graphiques_FAVICON%20Fond%20fonc%C3%A9.png" class="download-btn lightbox-trigger">Favicon foncé</a>
                         <a href="images/Elements%20graphiques.pdf" target="_blank" class="download-btn">Charte PDF</a>
-                        <a href="images/Elements%20graphiques_BASELINE.png" target="_blank" class="download-btn btn-view">Baseline</a>
-                        <a href="images/Elements%20graphiques_CHAPEAU%20HORIZONTAL.png" target="_blank" class="download-btn btn-view">Chapeau horizontal</a>
-                        <a href="images/Elements%20graphiques_CHAPEAU%20VERTICAL.png" target="_blank" class="download-btn btn-view">Chapeau vertical</a>
+                        <a href="images/Elements%20graphiques_BASELINE.png" class="download-btn btn-view lightbox-trigger">Baseline</a>
+                        <a href="images/Elements%20graphiques_CHAPEAU%20HORIZONTAL.png" class="download-btn btn-view lightbox-trigger">Chapeau horizontal</a>
+                        <a href="images/Elements%20graphiques_CHAPEAU%20VERTICAL.png" class="download-btn btn-view lightbox-trigger">Chapeau vertical</a>
                     </div>
                 </div>
 
@@ -462,10 +462,48 @@
         </div>
         <div class="footer-bottom"><p>© 2026 Bien Vivre à Perros - Tous droits réservés | <a href="#">Mentions légales</a></p></div>
     </footer>
+    <!-- Lightbox -->
+    <div id="lightbox" class="lightbox">
+        <span class="lightbox-close">&times;</span>
+        <img class="lightbox-content" id="lightbox-img">
+        <div id="lightbox-caption"></div>
+    </div>
+
     <script>
         document.querySelector('.nav-toggle').addEventListener('click', function() {
             document.querySelector('.nav-mobile').classList.toggle('active');
             this.classList.toggle('active');
+        });
+
+        // Lightbox
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = document.getElementById('lightbox-img');
+        const lightboxCaption = document.getElementById('lightbox-caption');
+        const lightboxClose = document.querySelector('.lightbox-close');
+
+        document.querySelectorAll('.lightbox-trigger').forEach(function(trigger) {
+            trigger.addEventListener('click', function(e) {
+                e.preventDefault();
+                lightbox.classList.add('active');
+                lightboxImg.src = this.href;
+                lightboxCaption.textContent = this.textContent;
+            });
+        });
+
+        lightboxClose.addEventListener('click', function() {
+            lightbox.classList.remove('active');
+        });
+
+        lightbox.addEventListener('click', function(e) {
+            if (e.target === lightbox) {
+                lightbox.classList.remove('active');
+            }
+        });
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                lightbox.classList.remove('active');
+            }
         });
     </script>
 </body>
