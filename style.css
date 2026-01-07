@@ -889,6 +889,86 @@ img {
 }
 
 /* ============================================
+   REVUE DE PRESSE
+   ============================================ */
+.presse-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    text-decoration: none;
+    transition: var(--transition);
+    border: 1px solid var(--gris-clair);
+}
+
+.presse-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    border-color: var(--turquoise);
+}
+
+.presse-source {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--turquoise);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+}
+
+.presse-title {
+    font-family: var(--font-corps);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--bleu-profond);
+    line-height: 1.4;
+    margin-bottom: 0.75rem;
+    text-transform: none;
+}
+
+.presse-date {
+    font-size: 0.85rem;
+    color: var(--granite);
+    margin-bottom: 1rem;
+}
+
+.presse-cta {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--magenta);
+    margin-top: auto;
+}
+
+.presse-card:hover .presse-cta {
+    text-decoration: underline;
+}
+
+.presse-pages {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: auto;
+    flex-wrap: wrap;
+}
+
+.presse-pages a {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--magenta);
+    padding: 0.35rem 0.75rem;
+    border: 1px solid var(--magenta);
+    border-radius: 4px;
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.presse-pages a:hover {
+    background: var(--magenta);
+    color: white;
+}
+
+/* ============================================
    FOOTER
    ============================================ */
 .footer {
