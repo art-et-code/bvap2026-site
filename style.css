@@ -601,6 +601,41 @@ img {
     font-size: 0.9rem;
 }
 
+.team-profession {
+    color: var(--granite);
+    font-size: 0.9rem;
+    margin: 0;
+    font-style: italic;
+}
+
+.team-age {
+    color: var(--granite);
+    font-size: 0.85rem;
+    margin: 0.25rem 0 0 0;
+}
+
+.team-profession-leader {
+    color: var(--granite);
+    font-size: 1.1rem;
+    font-style: italic;
+    margin-top: -0.5rem;
+}
+
+.team-age-leader {
+    color: var(--granite);
+    font-size: 1rem;
+    margin-top: 0.25rem;
+}
+
+.team-citation {
+    color: var(--granite);
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-top: 0.75rem;
+    line-height: 1.5;
+    text-align: left;
+}
+
 /* ============================================
    THÉMATIQUES PROGRAMME
    ============================================ */
