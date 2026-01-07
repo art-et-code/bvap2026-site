@@ -1196,6 +1196,17 @@ img {
     font-size: 0.85rem;
 }
 
+.download-btn.btn-view {
+    background: transparent;
+    color: var(--bleu-ocean);
+    border: 2px solid var(--bleu-ocean);
+}
+
+.download-btn.btn-view:hover {
+    background: var(--bleu-ocean);
+    color: white;
+}
+
 /* Don section */
 .don-section {
     background: linear-gradient(135deg, var(--sable) 0%, #fff 100%);
