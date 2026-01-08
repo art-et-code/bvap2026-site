@@ -627,13 +627,20 @@ img {
     margin-top: 0.25rem;
 }
 
+.team-perrosien {
+    color: var(--bleu-ocean);
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-top: 0.25rem;
+}
+
 .team-citation {
     color: var(--granite);
     font-size: 0.85rem;
     font-style: italic;
     margin-top: 0.75rem;
     line-height: 1.5;
-    text-align: left;
+    text-align: justify;
 }
 
 /* ============================================
