@@ -1,7 +1,7 @@
 =====================================================================
 CONTENU DU SITE - BIEN VIVRE À PERROS 2026
 Document pour relecture par l'équipe communication
-Généré le 7 janvier 2026
+Généré le 12 janvier 2026
 =====================================================================
 
 Pour chaque section, merci d'indiquer vos commentaires/corrections
@@ -16,7 +16,7 @@ HERO (bandeau principal)
 ------------------------
 [Image : Bien Vivre à Perros - aujourd'hui et demain]
 
-Ensemble, construisons l'avenir de notre commune
+Ensemble, préservons l'avenir de notre commune
 
 Une équipe engagée, à l'écoute des habitants, pour une ville dynamique, solidaire et respectueuse de notre environnement exceptionnel.
 
@@ -56,15 +56,19 @@ Sous-titre : Restez informés
 Titre : Actualités & Événements
 Description : Les dernières nouvelles de notre campagne et les prochains rendez-vous à ne pas manquer.
 
-3 cartes actualités :
+4 cartes actualités :
 
 1. 13 janvier 2026 - Lancement officiel de notre campagne
    C'est officiel ! Notre liste "Bien Vivre à Perros" lance sa campagne pour les municipales 2026.
 
-2. 5 février 2026 - Réunion publique
+2. 17-18 janvier 2026 - Lettre aux Perrosiens
+   Notre lettre de campagne est distribuée dans toutes les boîtes aux lettres de Perros-Guirec.
+   Lien : Lire la lettre (PDF)
+
+3. 5 février 2026 - Réunion publique
    Présentation de notre projet et échange avec les habitants. Venez nombreux !
 
-3. Dès le 13 février - Permanences au local
+4. Dès le 13 février - Permanences au local
    Retrouvez-nous au 9 rue de la Poste. Mercredi, vendredi, samedi et dimanche.
 
 
@@ -128,7 +132,7 @@ Sous-titre stylisé : aujourd'hui et demain
 
 Bien Vivre à Perros, aujourd'hui et demain est une liste citoyenne qui se présente aux élections municipales de mars 2026 à Perros-Guirec (Côtes-d'Armor, Bretagne).
 
-Menée par Erven LEON, notre équipe rassemble des femmes et des hommes engagés pour construire une commune dynamique, solidaire et respectueuse de son environnement exceptionnel.
+Menée par Erven LEON, notre équipe rassemble des femmes et des hommes engagés pour préserver une commune dynamique, solidaire et respectueuse de son environnement exceptionnel.
 
 Notre programme s'articule autour de 6 axes : environnement, sport, culture, économie locale, sécurité numérique et tourisme durable.
 
@@ -137,6 +141,7 @@ SECTION "TÊTE DE LISTE"
 -----------------------
 Sous-titre : Tête de liste
 Titre : Erven LEON
+Âge : 66 ans - Consultant en entreprise
 
 [Photo Erven LEON]
 
@@ -151,37 +156,114 @@ Sous-titre : Ensemble
 Titre : Les Colistiers
 Description : Une équipe diverse, représentative de toutes les sensibilités de notre commune.
 
-Liste des 30 colistiers (ordre alphabétique) :
-- Patrick AUDRAIN
-- Jean-Claude BANCHEREAU
-- Christophe BETOULE
-- Bernard CAMBIER
-- Grégory CHAEN
-- Lénaïck COCHARD
-- Christian DANIEL
-- Antoine EUVRARD
-- Erwan FAJOLLES
-- Cindy GERME
-- Mathieu GUILLOU
-- Anne HARDY
-- Jean-Yves KERAUDY
-- Marie-Charlotte KEREUN
-- Gaëlle LARGET
-- Fiona LE GUEN
-- Muriel LEBRETON
-- Thierry LOCATELLI
-- Patrick LOISEL
-- Guy MARECHAL
-- Flore MARTIN BANCHEREAU
-- Amélie MELEDER SALAGNAC
-- Maria MESQUITA
-- Catherine PONTAILLER
-- Laurence RETO
-- Xavier ROPARTZ
-- Soazic ROYER
-- Antoine SALIOU
-- Caroline SCHWEITZER
-- Cynthia VALLET
+Liste des 30 colistiers (ordre alphabétique) avec leurs informations :
+
+1. Patrick AUDRAIN - 66 ans - Directeur de production (retraité)
+   Perrosien depuis 1964
+   « Perrosien depuis 42 ans et ultra motivé pour être acteur de ma ville afin de transmettre aux jeunes générations une ville où il fait bon vivre. »
+
+2. Jean-Claude BANCHEREAU - 79 ans - Chef d'entreprise dans l'agroalimentaire (retraité)
+   Perrosien depuis 2000
+   « Joueur, capitaine et président de club de handball depuis 30 ans. Je suis tombé amoureux de Perros-Guirec lors de vacances en 1976. Marié, 4 enfants, 10 petits-enfants. Je termine mon 2e mandat municipal. D'une manière générale, j'aime les gens, j'aime travailler en équipe et je suis fidèle. »
+
+3. Christophe BETOULE - 47 ans - Ingénieur télécommunications
+
+4. Bernard CAMBIER - 60 ans - Responsable de production (retraité)
+   Perrosien depuis 1979
+   « Installé à Perros depuis 1979, puis marié à une Perrosienne de naissance. Le travail m'a éloigné pendant 25 ans où j'ai été 19 ans conseiller municipal, adjoint au maire d'une commune de 5000 habitants. De retour dans ma commune de cœur, je suis impliqué dans le bureau du Granit Running 22, et prêt à partager mes connaissances et expériences pour le bien de notre commune. »
+
+5. Grégory CHAEN - 44 ans - Chef d'entreprise et restaurateur
+
+6. Lénaïck COCHARD - 56 ans - Formatrice-auditrice qualité et prévention des risques
+   Perrosienne depuis 2006
+   « "Le meilleur moyen de prévoir le futur est de le créer" (Peter Drucker). Perrosienne depuis 20 ans, mariée, 2 enfants. Passionnée d'équitation et de lecture de romans. Je souhaite m'investir afin de partager mon expérience personnelle et professionnelle. »
+
+7. Christian DANIEL - 62 ans - Directeur ingénierie SNCF
+   Perrosien natif
+   « Perrosien de la naissance jusqu'au BAC puis délocalisé pour mes études et le travail. Je suis enfin ancré sur Perros depuis 2 ans. Mon objectif est simple : aider la commune via mes compétences techniques à construire un futur paisible et serein au sein d'une équipe dynamique. »
+
+8. Antoine EUVRARD - 53 ans - Responsable développement commercial
+
+9. Erwan FAJOLLES - 55 ans - Conseiller en pilotage d'entreprise
+   Perrosien natif
+   « Passionné de sports nautiques (sur et sous l'eau). Papa de 3 filles, beau-papa de 2 garçons. Engagé à Perros-Guirec au sein d'associations et d'un club d'entreprises. Perrosien depuis toujours, je m'investis pour que ma ville reste toujours aussi active. »
+
+10. Cindy GERME - 34 ans - Esthéticienne et cheffe d'entreprise
+
+11. Mathieu GUILLOU - 46 ans - Commerçant dans le tourisme
+    « Arrivé à Perros dès l'adolescence, j'y ai grandi et construit mon attachement à la commune. La mer a naturellement guidé mon parcours professionnel, de la plongée sous-marine à la marine de commerce. En créant Le Petit Train de la Côte, j'ai fait le choix de m'ancrer localement et de valoriser notre territoire. »
+
+12. Anne HARDY - 57 ans - Ingénieure et cheffe d'entreprise
+    Perrosienne depuis 2022
+    « Passionnée de sport depuis l'enfance, j'ai été gymnaste avant de me tourner vers le triathlon, la course à pied et le cyclisme. Co-fondatrice et présidente d'Armor Tri Passion, secrétaire des 20 km de la Côte de Granit Rose, je m'engage pour permettre à tous de profiter des bienfaits du sport, source de santé et de bien-être à tout âge. »
+
+13. Jean-Yves KERAUDY - 74 ans - Ingénieur-conseiller CCI 22 (retraité)
+    Perrosien depuis 1994
+    « War araog atao »
+
+14. Marie-Charlotte KEREUN - 42 ans - Directrice marketing et communication
+    Perrosienne native
+    « Perros-Guirec est ma ville de cœur et surtout celle de ma famille depuis des générations. Maman de trois enfants et cheffe d'entreprise, j'ai naturellement eu envie de m'impliquer pour notre commune. Je veux agir concrètement pour la qualité de vie de chaque génération, avec une vision humaine et positive. »
+
+15. Gaëlle LARGET - 65 ans - Comptable et contrôleur de gestion (retraitée)
+    Perrosienne depuis 1981
+    « Perrosienne depuis 45 ans, je suis aujourd'hui retraitée, adjointe aux affaires sociales et à la solidarité. Déjà au service de nos Perrosiens jeunes et moins jeunes, je souhaite continuer à apporter mon aide à la communauté. »
+
+16. Fiona LE GUEN - 37 ans - Directrice relation et expérience client
+    Perrosienne depuis 1998
+    « Je place l'humain et la qualité du lien au cœur de mes engagements. Maman de trois enfants et présidente de l'association de l'école de Ploumanac'h, je m'investis pleinement dans la vie locale. Je joue également au football en sénior féminine à l'USPL de Perros-Guirec. »
+
+17. Muriel LEBRETON - 49 ans - Cheffe de projet
+    Perrosienne depuis 2014
+    « Résidente de Perros-Guirec depuis plus de 10 ans et passionnée par les activités de plein air comme le surf, je suis convaincue de l'impact positif du bien-être sur la qualité de vie. Je souhaite m'investir activement pour que notre ville offre un environnement stimulant et épanouissant à l'ensemble de ses habitants. »
+
+18. Thierry LOCATELLI - 73 ans - Responsable services techniques (retraité)
+
+19. Patrick LOISEL - 69 ans - Consultant en entreprise (retraité)
+    Perrosien depuis 2015
+    « Fils d'agriculteur, autodidacte. J'ai été directeur pendant plus de 15 ans avant de terminer ma carrière comme formateur. Perrosien depuis 11 ans, je me suis lancé dans la vie locale en 2020 avec Erven pour devenir adjoint aux activités nautiques et aux plages. Je suis au bureau de l'ASNPG et de l'Ar Jentiles. Marié, père de 4 enfants et grand-père de deux petits-enfants. »
+
+20. Guy MARECHAL - 70 ans - Cadre commercial (retraité)
+    Perrosien depuis 2013
+    « Adjoint sortant en charge des travaux, de l'urbanisme et de la sécurité de la ville. Ancien président des Amis de la Côte de Granit Rose. »
+
+21. Flore MARTIN BANCHEREAU - 47 ans - Secrétaire de direction
+    « Mariée, 3 enfants, j'ai vécu à l'étranger pendant 14 ans. Amoureuse de Perros-Guirec depuis toujours, ici... c'est chez moi. J'aime rire, faire la fête et surtout, aider les autres. »
+
+22. Amélie MELEDER SALAGNAC - 44 ans - Cadre en EHPAD
+    Perrosienne depuis 2008
+    « Perrosienne depuis 18 ans, je suis mariée à un Perrosien pur souche ! Auparavant commerçante à Perros-Guirec, j'ai découvert la vie perrosienne. Maman de 2 enfants, je suis adepte de course à pied et participe aux différentes manifestations organisées sur la commune. Très investie dans la vie locale et associative, il me tenait à cœur d'œuvrer positivement et activement pour ma ville. »
+
+23. Maria MESQUITA - 57 ans - Enseignante
+    Perrosienne depuis 1996
+    « Perrosienne depuis 30 ans, je suis mère de quatre enfants et enseignante au collège des 7 Îles depuis 2011. Je souhaite m'engager auprès des Perrosiens pour créer un lien entre la nouvelle jeunesse perrosienne et les jeunes retraités en mettant en place un service de parrainage d'enfants par des seniors. »
+
+24. Catherine PONTAILLER - 71 ans - Ingénieure informatique (retraitée)
+    Perrosienne depuis 1985
+    « Arrivée dans le Trégor en 1981, installée définitivement à Perros-Guirec en 1985 et impliquée dans des associations perrosiennes de 1992 à 2014. Depuis 2014, adjointe à la culture et animations, et conseillère communautaire LTC. Passions : la mer (dessus, dessous), la nature, tous les volets de la culture. "Découvrir, explorer et partager" avec énergie et enthousiasme sont mes actions préférées. »
+
+25. Laurence RETO - 55 ans - Responsable service client
+    Perrosienne depuis 2017
+    « Je travaille dans la relation client, je suis maman d'un garçon, passionnée par la culture bretonne de par mes origines. Engagée, je participe à des événements locaux (fête vénitienne, Noël à la Rade, fête de la musique) incarnant la convivialité qui me tient à cœur. »
+
+26. Xavier ROPARTZ - 53 ans - Ingénieur télécommunications et éducateur sportif
+    Perrosien natif
+    « De famille ploumanacaine, je suis président du Team Cycliste de la Côte de Granit Rose depuis 2012. Papa d'un enfant. »
+
+27. Soazic ROYER - 46 ans - Artiste
+    Perrosienne depuis 2023
+    « Artisane, forte d'un parcours créatif et profondément humain, maman de 3 enfants, fondatrice et présidente de l'association À TE LIER 22, impliquée et partenaire de la Maison du Littoral, membre de plusieurs associations et parent délégué, je m'investis pour cultiver le lien, faire vivre le collectif et semer la bienveillance. »
+
+28. Antoine SALIOU - 43 ans - Commercial
+    « Commercial, je suis parent de deux enfants. Passionné par la mer, la pêche et le sport en général, je suis profondément attaché à Perros-Guirec et à Ploumanac'h, où j'ai grandi. Je m'engage pour des actions locales fondées sur la proximité et l'écoute. »
+
+29. Caroline SCHWEITZER - 22 ans - Étudiante
+    Perrosienne depuis 2020
+    « Étudiante et maman d'un enfant d'un mois, je viens à Perros-Guirec chaque année depuis mon enfance, une ville devenue ma ville de cœur. J'ai eu l'opportunité d'y réaliser mon alternance à la mairie et je souhaite aujourd'hui participer, à mon échelle, à l'avenir de notre commune. »
+
+30. Cynthia VALLET - 39 ans - Facturière et infirmière
+    Perrosienne depuis 2022
+    « Infirmière facturière, je mets chaque jour mes compétences et mon sens des responsabilités au service des autres. Engagée dans l'école de mes enfants, je participe dès que possible à la vie de l'établissement. Donner de mon temps, être à l'écoute et m'investir pour les autres sont des valeurs essentielles que je souhaite aujourd'hui mettre au service de notre commune. »
 
 
 SECTION "NOS VALEURS"
@@ -254,38 +336,20 @@ SECTION "TOURNÉE DES QUARTIERS"
 Titre : Tournée des quartiers
 Description : Venez nous rencontrer près de chez vous !
 
-1. 26 février - Kervoilan / Kerabram
-   Parking du gymnase - 11h
+Près de chez vous - 11h :
+1. 26 février - Kervoilan / Kerabram - Parking du gymnase
+2. 28 février - Trestrignel - Sur le parking
+3. 1er mars - Trestraou - À la Rotonde
+4. 5 mars - Ploumanac'h - Parking de St Guirec
+5. 7 mars - Kervélégan / Kernivinen - Chapelle de Kernivinen
 
-2. 27 février - Centre ville
-   Place du marché - 11h
-
-3. 28 février - Trestrignel
-   Sur le parking - 11h
-
-4. 1er mars - Trestraou
-   À la Rotonde - 11h
-
-5. 4 mars - La Rade
-   Sur le marché - 11h
-
-6. 5 mars - Ploumanac'h
-   Parking de St Guirec - 11h
-
-7. 6 mars - Centre ville
-   Place du marché - 11h
-
-8. 8 mars - Kervélégan / Kernivinen
-   À la chapelle - 11h
-
-9. 9 mars - La Clarté
-   Sur le marché - 11h
-
-10. 11 mars - La Rade
-    Sur le marché - 11h
-
-11. 13 mars - Centre ville
-    Place du marché - 11h
+Sur les marchés - 10h :
+1. 27 février - Centre ville - Place du marché
+2. 4 mars - La Rade - Sur le marché
+3. 6 mars - Centre ville - Place du marché
+4. 8 mars - La Clarté - Sur le marché
+5. 11 mars - La Rade - Sur le marché
+6. 13 mars - Centre ville - Place du marché
 
 
 SECTION "ACTUALITÉS"
@@ -319,6 +383,32 @@ Titre : Espace Presse
 Description : Retrouvez tous nos documents officiels et ressources de communication.
 
 
+SECTION "COMMUNIQUÉS DE PRESSE"
+-------------------------------
+Sous-titre : Communiqués
+Titre : Communiqués de Presse
+
+1. 13 janvier 2026 - Lancement officiel de la liste "Bien Vivre à Perros, aujourd'hui et demain"
+   Statut : Bientôt
+
+Note : Les prochains communiqués seront publiés ici au fil de la campagne.
+
+
+SECTION "REVUE DE PRESSE"
+-------------------------
+Sous-titre : À lire
+Titre : Revue de Presse
+Description : Articles de presse sur la vie municipale à Perros-Guirec.
+
+Articles janvier 2026 :
+- 10 janvier 2026 - Le Télégramme : Erven Léon souhaite une campagne responsable et respectueuse
+- 8 janvier 2026 - Le Trégor : Des perspectives enthousiasmantes pour 2026
+- 8 janvier 2026 - Le Trégor : Thierry Roger skipper du trimaran Perros-Guirec se prépare pour la Route du Rhum 2026
+- 3 janvier 2026 - Le Télégramme : Derniers voeux du mandat d'Erven Léon (3 pages)
+
++ 46 articles de septembre à décembre 2025 (voir page presse pour la liste complète)
+
+
 SECTION "CONTACT PRESSE"
 ------------------------
 Sous-titre : Contact presse
@@ -326,7 +416,7 @@ Titre : Relations médias
 
 Pour toute demande d'interview, d'information ou de couverture médiatique, notre équipe presse est à votre disposition.
 
-Email : presse@bienvivreaperros.fr
+Email : contact@bienvivreaperros.fr
 
 Nous nous engageons à répondre à vos demandes dans les meilleurs délais.
 
@@ -338,23 +428,12 @@ Titre : Kit de Communication
 Description : Téléchargez nos visuels et documents officiels.
 
 1. Logo et charte graphique
-   Logo en différents formats et guide d'utilisation
-   Statut : Bientôt
+   Logo, favicon et éléments graphiques de la campagne
+   Fichiers disponibles : Logo, Favicon clair, Favicon foncé, Baseline, Chapeau horizontal, Chapeau vertical, Charte PDF
 
 2. Documents de campagne
    Tracts, affiches et supports de communication
-   Statut : Bientôt
-
-
-SECTION "COMMUNIQUÉS DE PRESSE"
--------------------------------
-Sous-titre : Communiqués
-Titre : Communiqués de Presse
-
-1. 13 janvier 2026 - Lancement officiel de la liste "Bien Vivre à Perros, aujourd'hui et demain"
-   Statut : Bientôt
-
-Note : Les prochains communiqués seront publiés ici au fil de la campagne.
+   Fichiers disponibles : Lettre aux Perrosiens (PDF)
 
 
 =====================================================================
@@ -393,10 +472,7 @@ Sous-titre : Soutenez-nous
 Titre : Faire un don
 Description : Votre soutien financier nous permet de mener une campagne au plus près des habitants.
 
-Les dons aux campagnes électorales sont encadrés par la loi. Tout don supérieur à 150€ ouvre droit à une réduction d'impôt de 66%.
-
-Exemple de réduction fiscale :
-Un don de 150€ ne vous coûte que 51€ après réduction d'impôt.
+Les dons aux campagnes électorales sont encadrés par la loi.
 
 Pour effectuer un don, veuillez nous contacter par email ou vous rendre à notre local de campagne. Un reçu fiscal vous sera délivré.
 
@@ -414,7 +490,7 @@ Titre : FAQ
    - En mairie, au service élections, sur présentation des documents requis
    - Par courrier, en adressant le formulaire et les justificatifs à la mairie
    Documents nécessaires : une pièce d'identité en cours de validité et un justificatif de domicile (ou une attestation d'hébergement).
-   Attention aux délais : l'inscription doit être effectuée au plus tard le 6ᵉ vendredi précédant l'élection.
+   Attention aux délais : l'inscription doit être effectuée au plus tard le 6e vendredi précédant l'élection.
    Une fois inscrit(e), vous pourrez voter dans votre bureau de vote de rattachement et participer pleinement à la vie démocratique locale.
 
 2. Comment puis-je rejoindre l'équipe de campagne ?
@@ -431,7 +507,7 @@ Titre : FAQ
 3. Quand auront lieu les élections municipales 2026 ?
    Les élections municipales auront lieu en mars 2026 :
    - 1er tour : dimanche 15 mars 2026
-   - 2ᵉ tour : dimanche 22 mars 2026 (si nécessaire)
+   - 2e tour : dimanche 22 mars 2026 (si nécessaire)
    Ces élections permettront d'élire les équipes municipales pour un mandat de six ans.
 
 4. Comment faire un don à Bien Vivre à Perros ?
