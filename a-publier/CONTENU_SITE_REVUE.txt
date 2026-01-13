@@ -1,7 +1,7 @@
 =====================================================================
 CONTENU DU SITE - BIEN VIVRE À PERROS 2026
 Document pour relecture par l'équipe communication
-Généré le 12 janvier 2026
+Généré le 13 janvier 2026
 =====================================================================
 
 Pour chaque section, merci d'indiquer vos commentaires/corrections
@@ -50,25 +50,25 @@ Description : Des propositions concrètes pour répondre aux besoins de tous les
    Valoriser notre patrimoine tout en préservant la qualité de vie des résidents.
 
 
-SECTION "ACTUALITÉS"
---------------------
-Sous-titre : Restez informés
-Titre : Actualités & Événements
-Description : Les dernières nouvelles de notre campagne et les prochains rendez-vous à ne pas manquer.
+SECTION "ACTUALITÉS RÉCENTES"
+-----------------------------
+Sous-titre : À la une
+Titre : Actualités récentes
 
-4 cartes actualités :
+1. 13 janvier 2026 - Présentation officielle de notre liste
+   Découvrez les 30 colistiers de "Bien Vivre à Perros, aujourd'hui et demain" pour les municipales 2026.
+   Lien : Lire le communiqué (PDF)
 
-1. 13 janvier 2026 - Lancement officiel de notre campagne
-   C'est officiel ! Notre liste "Bien Vivre à Perros" lance sa campagne pour les municipales 2026.
 
-2. 17-18 janvier 2026 - Lettre aux Perrosiens
-   Notre lettre de campagne est distribuée dans toutes les boîtes aux lettres de Perros-Guirec.
-   Lien : Lire la lettre (PDF)
+SECTION "PROCHAINS RENDEZ-VOUS"
+-------------------------------
+Sous-titre : À vos agendas
+Titre : Prochains rendez-vous
 
-3. 5 février 2026 - Réunion publique
-   Présentation de notre projet et échange avec les habitants. Venez nombreux !
+1. 5 février 2026 - Réunion publique
+   Présentation de notre projet et échange avec les habitants. Salle des Traouïero.
 
-4. Dès le 13 février - Permanences au local
+2. Dès le 13 février - Permanences au local
    Retrouvez-nous au 9 rue de la Poste. Mercredi, vendredi, samedi et dimanche.
 
 
@@ -328,11 +328,11 @@ Titre : Réunions publiques
 
 1. 05 février - Réunion publique
    Présentation de notre projet et échange avec les habitants.
-   Lieu : [Lieu à confirmer]
+   Lieu : Salle des Traouïero
 
 2. 13 mars - Réunion publique
    Venez échanger avec notre équipe sur notre programme pour Perros-Guirec.
-   Lieu : [Lieu à confirmer]
+   Lieu : Palais des Congrès
 
 
 SECTION "TOURNÉE DES QUARTIERS"
@@ -356,16 +356,29 @@ Sur les marchés - 10h :
 6. 13 mars - Centre ville - Place du marché
 
 
+SECTION "DÉBATS PRESSE"
+-----------------------
+Titre : Débats presse
+Description : Échanges avec la presse locale sur les thématiques de la campagne.
+
+1. 19 février - Logement / Urbanisme / Espaces naturels
+   Lieu et horaire : [À confirmer]
+
+2. 5 mars - Attractivité économique
+   Lieu et horaire : [À confirmer]
+
+3. 10 mars - Services à la population / Finances publiques
+   Lieu et horaire : [À confirmer]
+
+
 SECTION "ACTUALITÉS"
 --------------------
 Sous-titre : À la une
 Titre : Dernières Actualités
 
-1. 13 janvier 2026 - Lancement officiel de notre campagne
-   C'est officiel ! Notre liste "Bien Vivre à Perros" lance sa campagne pour les municipales 2026. Une équipe motivée et des idées concrètes pour notre commune.
-
-2. À venir - Présentation du programme complet
-   Notre programme détaillé sera bientôt disponible. Environnement, sport, culture, économie... Découvrez nos propositions pour chaque thématique.
+1. 13 janvier 2026 - Présentation officielle de notre liste
+   Découvrez les 30 colistiers de "Bien Vivre à Perros, aujourd'hui et demain" pour les municipales 2026. Une équipe motivée et des idées concrètes pour notre commune.
+   Lien : Lire le communiqué de presse (PDF)
 
 
 SECTION "GALERIE"
@@ -392,8 +405,8 @@ SECTION "COMMUNIQUÉS DE PRESSE"
 Sous-titre : Communiqués
 Titre : Communiqués de Presse
 
-1. 13 janvier 2026 - Lancement officiel de la liste "Bien Vivre à Perros, aujourd'hui et demain"
-   Statut : Bientôt
+1. 13 janvier 2026 - Présentation de la Liste
+   Lien : Télécharger (PDF)
 
 Note : Les prochains communiqués seront publiés ici au fil de la campagne.
 
@@ -405,6 +418,8 @@ Titre : Revue de Presse
 Description : Articles de presse sur la vie municipale à Perros-Guirec.
 
 Articles janvier 2026 :
+- 13 janvier 2026 - Ouest France : Municipales 2026 : Quels candidats sont sur la ligne de départ ?
+- 12 janvier 2026 - Ouest France : Un taux de résidences principales important
 - 10 janvier 2026 - Le Télégramme : Erven Léon souhaite une campagne responsable et respectueuse
 - 8 janvier 2026 - Le Trégor : Des perspectives enthousiasmantes pour 2026
 - 8 janvier 2026 - Le Trégor : Thierry Roger skipper du trimaran Perros-Guirec se prépare pour la Route du Rhum 2026
