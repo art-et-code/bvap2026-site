@@ -640,7 +640,7 @@ img {
     font-style: italic;
     margin-top: 0.75rem;
     line-height: 1.5;
-    text-align: justify;
+    text-align: left;
 }
 
 /* ============================================
@@ -1353,5 +1353,15 @@ img {
 
 .valeur-content p {
     color: var(--granite);
+    margin-bottom: 0.75rem;
+}
+
+.valeur-content p:last-child {
     margin-bottom: 0;
+}
+
+.valeur-tagline {
+    font-weight: 600;
+    font-style: italic;
+    color: var(--bleu-ocean);
 }
