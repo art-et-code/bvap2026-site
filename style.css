@@ -764,12 +764,14 @@ img {
 }
 
 .event-date-box .day {
+    display: block;
     font-size: 1.75rem;
     font-weight: 700;
     line-height: 1;
 }
 
 .event-date-box .month {
+    display: block;
     font-size: 0.875rem;
     text-transform: uppercase;
     letter-spacing: 0.1em;
