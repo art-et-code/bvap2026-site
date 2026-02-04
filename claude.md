@@ -46,6 +46,11 @@ Site web de campagne pour la liste **"Bien Vivre à Perros, aujourd'hui et demai
 
 ## Conventions
 
+### Éditorial
+- Site en français
+- Ton professionnel et institutionnel
+- Respect du RGPD (pas de données personnelles sans consentement)
+
 ### Noms de fichiers presse
 Format : `YYYY-MM-DD-Source-Titre.extension`
 Exemple : `2026-01-28-Le-Telegramme-La-place-Chez-Titine-fait-peau-neuve.jpeg`
