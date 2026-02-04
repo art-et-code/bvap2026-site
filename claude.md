@@ -67,13 +67,13 @@ Exemple : `2026-01-28-Le-Telegramme-La-place-Chez-Titine-fait-peau-neuve.jpeg`
 
 ## Axes du programme
 
-1. **Ville Bienveillante** — "Prendre soin de chacun, à chaque âge de la vie"
+1. **Une ville bienveillante** — "Prendre soin de chacun, à chaque âge de la vie"
    - Solidarité, Inclusion, Transmission
 
-2. **Ville Responsable** — "Protéger notre patrimoine naturel, préparer l'avenir"
+2. **Une ville responsable** — "Protéger notre patrimoine naturel, préparer l'avenir"
    - Écologie, Patrimoine, Citoyenneté
 
-3. **Ville Vivante** — "Une ville qui bouge, une ville qui rassemble"
+3. **Une ville vivante** — "Une ville qui bouge, une ville qui rassemble"
    - Sport, Culture, Proximité
 
 ## Contact
