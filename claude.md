@@ -16,7 +16,8 @@ Site web de campagne pour la liste **"Bien Vivre à Perros, aujourd'hui et demai
 - `index.html` - Page d'accueil
 - `programme.html` - Programme (à venir)
 - `equipe.html` - L'équipe (30 colistiers)
-- `actualites.html` - Actualités, agenda, galerie photo
+- `actualites.html` - Actualités et agenda
+- `galerie.html` - Galerie photos et vidéos
 - `presse.html` - Espace presse (revue de presse, documents, réseaux sociaux)
 - `contact.html` - Contact et dons
 - `mentions-legales.html` - Mentions légales
