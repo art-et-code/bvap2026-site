@@ -13,8 +13,10 @@ Site web de campagne pour la liste **"Bien Vivre à Perros, aujourd'hui et demai
 ## Structure du site
 
 ### Pages HTML
-- `index.html` - Page d'accueil
-- `programme.html` - Programme (à venir)
+- `index.html` - Page d'accueil (photo équipe, engagements, actualités, agenda)
+- `programme.html` - Programme complet (3 engagements + logement/urbanisme)
+- `logement.html` - Article "Un logement pour tous"
+- `urbanisme.html` - Article "Comprendre les règles d'urbanisme"
 - `equipe.html` - L'équipe (30 colistiers)
 - `actualites.html` - Actualités et agenda
 - `galerie.html` - Galerie photos et vidéos
@@ -23,12 +25,13 @@ Site web de campagne pour la liste **"Bien Vivre à Perros, aujourd'hui et demai
 - `mentions-legales.html` - Mentions légales
 
 ### Dossiers
-- `images/` - Images du site (logos, éléments graphiques)
+- `images/` - Images du site (logos, éléments graphiques, photo-groupe-accueil.jpg)
 - `images/presse/` - Articles de presse (scans)
 - `a-publier/` - Contenus à publier
   - `photos/` - Photos de campagne (galerie)
   - `communiques/` - Communiqués de presse (PDF)
   - `documents de campagne/` - Tracts, affiches (PDF)
+  - `programme/` - Contenus du programme (photos, articles .md)
   - `articles_presse.csv` - Liste des articles de presse
 
 ## Charte graphique
@@ -59,12 +62,19 @@ Exemple : `2026-01-28-Le-Telegramme-La-place-Chez-Titine-fait-peau-neuve.jpeg`
 ### Workflow Git
 - Branche de travail : `dev`
 - Branche de production : `main`
+- Branches feature : `feature/xxx` (ex: `feature/programme`)
 - Déploiement : GitHub Pages (automatique sur push main)
 
 ### Process de publication
 1. Ajouter les fichiers dans `a-publier/`
 2. Mettre à jour le HTML correspondant
 3. Commit sur `dev` puis merge sur `main`
+
+### Publication différée
+Pour publier une page plus tard (ex: programme) :
+1. Travailler sur une branche `feature/xxx`
+2. Publier les pages prêtes via `dev` → `main`
+3. Merger la branche feature quand tout est prêt
 
 ## Axes du programme
 
