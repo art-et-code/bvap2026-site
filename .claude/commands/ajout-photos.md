@@ -1,6 +1,6 @@
 # Ajout de photos à la galerie
 
-Ajoute les nouvelles photos à la galerie sur la page Actualités.
+Ajoute les nouvelles photos à la galerie sur la page Galerie.
 
 ## Instructions
 
@@ -10,8 +10,9 @@ Ajoute les nouvelles photos à la galerie sur la page Actualités.
    - `Tractage` → Section "Tractage"
    - `Lancement-campagne` → Section "Lancement de campagne"
    - `Photo-de-Groupe` → Section "Photo de groupe"
+   - `Reunion-publique` → Section "Réunions publiques"
    - Autre → Demander à l'utilisateur
-3. Ajouter les photos dans la section correspondante de `actualites.html`
+3. Ajouter les photos dans la section correspondante de `galerie.html`
 4. Utiliser le format HTML existant :
 
 ```html
