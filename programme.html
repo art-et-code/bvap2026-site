@@ -11,13 +11,27 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Découvrez le programme municipal de Bien Vivre à Perros 2026 : environnement, sport, culture, économie locale et plus encore.">
+    <meta name="description" content="Découvrez le programme municipal de Bien Vivre à Perros 2026 : une ville bienveillante, responsable et vivante.">
     <title>Notre Programme - Bien Vivre à Perros 2026</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600;700&family=Oswald:wght@500;600;700&family=Caveat:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/png" href="images/Elements%20graphiques_FAVICON%20Fond%20clair.png">
+    <style>
+        /* Protection contre la copie */
+        main, article, .section, .container p, .container li, .container h2, .container h3 {
+            user-select: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+        }
+        /* Garder la sélection pour le header, footer et boutons */
+        .header, .footer, .btn, a {
+            user-select: auto;
+            -webkit-user-select: auto;
+        }
+    </style>
 </head>
 <body>
     <header class="header">
@@ -57,14 +71,324 @@
         </div>
     </section>
 
-    <section class="section" style="min-height: 50vh; display: flex; align-items: center; background: linear-gradient(135deg, rgba(0, 188, 212, 0.08) 0%, rgba(230, 0, 126, 0.04) 100%);">
+    <!-- Introduction -->
+    <section class="section" style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.08) 0%, rgba(61, 74, 92, 0.05) 100%);">
         <div class="container">
-            <div class="don-section" style="text-align: center; border: 1px solid rgba(0, 188, 212, 0.2); border-left: 4px solid var(--cyan);">
-                <h3 style="font-size: 2rem; margin-bottom: 1.5rem;">Encore un peu de patience...</h3>
-                <p style="font-size: 1.25rem; max-width: 600px; margin: 0 auto 2rem;">Le programme sera bientôt dévoilé. En attendant, n'hésitez pas à nous contacter pour échanger sur vos idées et vos attentes.</p>
+            <div style="max-width: 900px; margin: 0 auto; text-align: center;">
+                <p style="font-family: 'Caveat', cursive; font-size: 2.2rem; color: var(--magenta); margin-bottom: 1.5rem;">« Qu'est-ce qu'on est bien à Perros ! »</p>
+                <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 1.5rem;">Combien de fois l'entend-on ! Cela nous fait chaud au cœur. Parce que lorsque l'on s'engage pour Perros-Guirec, c'est pour que chaque Perrosienne et chaque Perrosien s'épanouisse avec sa famille et ses amis dans ce cadre de vie exceptionnel dont nous bénéficions. Notre unique ambition est de permettre à chacun de trouver les activités, les lieux, les animations et les services dont il a besoin et qui lui font plaisir.</p>
+                <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 1.5rem;">Vous pouvez nous faire confiance pour continuer à conjuguer la <strong>rigueur de la gestion des deniers publics</strong> et la <strong>convivialité de la relation humaine</strong>, pour que Bien Vivre à Perros soit une réalité aujourd'hui et demain.</p>
+                <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 1.5rem;">Entre terre et mer, Perros-Guirec offre un cadre de vie façonné par la beauté de ses paysages, son patrimoine architectural valorisé et la richesse de ses espaces naturels préservés. Commerces de proximité, marchés, restaurants, artisans, entreprises locales et associations contribuent à l'animation et à la qualité de vie à l'année. Notre responsabilité est de poursuivre ensemble ces équilibres, sans opposer, sans promettre l'impossible.</p>
+                <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 1.5rem;">Bien Vivre à Perros s'appuie sur <strong>la rigueur, l'écoute et la participation</strong>, des choix assumés et une programmation budgétaire réaliste, et des réalisations concrètes pour les habitants, attentives à l'environnement, qui s'inscrivent dans le temps long.</p>
+                <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 2rem;">Notre projet s'articule autour de <strong>trois piliers indissociables</strong> :</p>
+            </div>
+
+            <!-- Les 3 engagements avec photos -->
+            <div class="grid grid-3" style="margin-top: 2rem; align-items: stretch;">
+                <!-- Bienveillante -->
+                <div style="display: flex; flex-direction: column; gap: 1rem;">
+                    <a href="#bienveillante" class="card" style="flex: 1; text-align: center; border: none; display: flex; flex-direction: column; text-decoration: none; transition: transform 0.3s, box-shadow 0.3s; background: linear-gradient(135deg, var(--magenta) 0%, #c4006a 100%); box-shadow: 0 6px 20px rgba(230, 0, 126, 0.35); padding: 1.5rem; border-radius: 12px;">
+                        <h3 style="color: white; margin-bottom: 0.5rem; font-size: 1.3rem;">Une ville bienveillante</h3>
+                        <p style="font-style: italic; color: rgba(255,255,255,0.85); margin-bottom: 1rem;">Prendre soin de chacun, à chaque âge de la vie</p>
+                        <p style="font-size: 0.95rem; margin-top: auto; color: rgba(255,255,255,0.9);"><strong>Solidarité</strong> • <strong>Inclusion</strong> • <strong>Transmission</strong></p>
+                    </a>
+                    <div style="height: 200px; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                        <img src="a-publier/programme/ville-bienveillante-summer-sport.JPG" alt="Summer Sport à Perros-Guirec" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                </div>
+                <!-- Responsable -->
+                <div style="display: flex; flex-direction: column; gap: 1rem;">
+                    <a href="#responsable" class="card" style="flex: 1; text-align: center; border: none; display: flex; flex-direction: column; text-decoration: none; transition: transform 0.3s, box-shadow 0.3s; background: linear-gradient(135deg, var(--cyan) 0%, #0097a7 100%); box-shadow: 0 6px 20px rgba(0, 188, 212, 0.35); padding: 1.5rem; border-radius: 12px;">
+                        <h3 style="color: white; margin-bottom: 0.5rem; font-size: 1.3rem;">Une ville responsable</h3>
+                        <p style="font-style: italic; color: rgba(255,255,255,0.85); margin-bottom: 1rem;">Protéger notre patrimoine naturel, préparer l'avenir</p>
+                        <p style="font-size: 0.95rem; margin-top: auto; color: rgba(255,255,255,0.9);"><strong>Écologie</strong> • <strong>Patrimoine</strong> • <strong>Citoyenneté</strong></p>
+                    </a>
+                    <div style="height: 200px; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                        <img src="a-publier/programme/ville-responsable-republique.jpeg" alt="Place de la République à Perros-Guirec" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                </div>
+                <!-- Vivante -->
+                <div style="display: flex; flex-direction: column; gap: 1rem;">
+                    <a href="#vivante" class="card" style="flex: 1; text-align: center; border: none; display: flex; flex-direction: column; text-decoration: none; transition: transform 0.3s, box-shadow 0.3s; background: linear-gradient(135deg, var(--bleu-marine) 0%, #2c3a4a 100%); box-shadow: 0 6px 20px rgba(61, 74, 92, 0.35); padding: 1.5rem; border-radius: 12px;">
+                        <h3 style="color: white; margin-bottom: 0.5rem; font-size: 1.3rem;">Une ville vivante</h3>
+                        <p style="font-style: italic; color: rgba(255,255,255,0.85); margin-bottom: 1rem;">Une ville qui bouge, une ville qui rassemble</p>
+                        <p style="font-size: 0.95rem; margin-top: auto; color: rgba(255,255,255,0.9);"><strong>Sport</strong> • <strong>Culture</strong> • <strong>Proximité</strong></p>
+                    </a>
+                    <div style="height: 200px; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                        <img src="a-publier/programme/ville-vivante-marché-noel-la-clarte.jpg" alt="Marché de Noël à La Clarté" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- UNE VILLE BIENVEILLANTE -->
+    <section id="bienveillante" class="section section-alt" style="scroll-margin-top: 100px;">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-subtitle" style="color: var(--magenta);">Engagement 1</span>
+                <h2>Une ville bienveillante</h2>
+                <p style="font-style: italic;">Prendre soin de chacun, à chaque âge de la vie</p>
+                <p style="max-width: 800px; margin: 1rem auto 0; font-size: 1.1rem; line-height: 1.7;">Une ville attractive est d'abord une ville humaine, attentive aux fragilités, engagée pour la solidarité et l'égalité des chances.</p>
+            </div>
+
+            <div class="card" style="border-left: 4px solid var(--magenta); max-width: 900px; margin: 0 auto; text-align: center;">
+                <!-- Santé et solidarité -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--magenta); margin-bottom: 0.5rem;">Santé et solidarité</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Assurer à tous un accès simple aux soins et aux services du quotidien.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Agrandir la Maison de l'enfance</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Développer la Maison de santé pour accueillir de nouveaux praticiens</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Proposer une mutuelle communale pour les habitants</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Promouvoir l'activité physique adaptée : sport sur ordonnance, ateliers bien-être…</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Accompagner le maintien à domicile des personnes âgées, par le portage de repas et les services d'aide à domicile</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Pérenniser les actions d'aide alimentaire et matérielle</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Créer un nouveau cimetière végétalisé</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(230, 0, 126, 0.2); margin: 1.5rem 0;">
+
+                <!-- Lien social et inclusion -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--magenta); margin-bottom: 0.5rem;">Lien social et inclusion</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Créer des occasions de rencontre et de partage entre tous les Perrosiens.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Mettre en place des journées portes ouvertes pour valoriser le travail quotidien des agents municipaux et renforcer la compréhension de leurs missions auprès des citoyens</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Mettre en place un dispositif d'accompagnement dédié aux associations (subventions, assurances, conseils juridiques…), valoriser l'engagement bénévole et favoriser le partage de compétences et de moyens</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Encourager la création d'un espace de co-working</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Assurer l'inclusion des jeunes en situation de handicap en proposant des temps d'activités avec des animateurs spécialisés</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Obtenir le label « Tourisme et Handicap » à la Maison du Tourisme et des Loisirs</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Créer des dispositifs concrets pour soutenir les aidants : temps de répit, groupes d'échange et accès à l'information</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Favoriser la pratique du sport pour les personnes en situation de handicap grâce au nouveau bateau Filao et à des créneaux adaptés</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Proposer des activités thérapeutiques innovantes comme le ping-pong adaptées pour accompagner les personnes atteintes de maladies (Parkinson, Alzheimer…)</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(230, 0, 126, 0.2); margin: 1.5rem 0;">
+
+                <!-- Éducation, jeunesse et mobilités solidaires -->
+                <div>
+                    <h4 style="color: var(--magenta); margin-bottom: 0.5rem;">Éducation, jeunesse et mobilités solidaires</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Accompagner les jeunes dans leur épanouissement et favoriser les échanges entre générations.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Enrichir les ateliers numériques intergénérationnels pour que chacun maîtrise les outils d'aujourd'hui</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Multiplier les activités hors écran pour les jeunes : sortie nature, atelier manuel, sport, jeu de société…</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Diversifier les actions éducatives, culturelles et sportives en lien avec les écoles et les associations</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Mettre en place un dispositif de binôme élève–retraité pour l'aide aux devoirs</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Développer le service Soli Trégor (transport solidaire bénévole pour les personnes isolées ou à mobilité réduite)</li>
+                        <li><span style="color: var(--magenta); margin-right: 0.5rem;">●</span>Améliorer les liaisons entre les gares TGV et Perros-Guirec en collaboration avec LTC et la Région Bretagne</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- UNE VILLE RESPONSABLE -->
+    <section id="responsable" class="section" style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.06) 0%, rgba(61, 74, 92, 0.03) 100%); scroll-margin-top: 100px;">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-subtitle" style="color: var(--cyan);">Engagement 2</span>
+                <h2>Une ville responsable</h2>
+                <p style="font-style: italic;">Protéger notre patrimoine naturel, préparer l'avenir</p>
+                <p style="max-width: 800px; margin: 1rem auto 0; font-size: 1.1rem; line-height: 1.7;">Notre responsabilité est double : préserver un territoire exceptionnel et anticiper les défis de demain.</p>
+            </div>
+
+            <div class="card" style="border-left: 4px solid var(--cyan); max-width: 900px; margin: 0 auto; text-align: center;">
+                <!-- Participation citoyenne -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--cyan); margin-bottom: 0.5rem;">Participation citoyenne et gouvernance</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Vous impliquer et construire ensemble notre avenir.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Allouer un budget participatif pour financer des projets citoyens</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Lancer un concours de quartier annuel valorisant les initiatives durables</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Poursuivre le travail avec la commission « Pérenne » pour inscrire les projets municipaux dans le temps long</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(0, 188, 212, 0.3); margin: 1.5rem 0;">
+
+                <!-- Transition écologique -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--cyan); margin-bottom: 0.5rem;">Transition écologique et environnement</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Préserver notre environnement et réduire durablement notre empreinte.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Rénover le Centre Nautique en privilégiant l'efficacité énergétique et l'accessibilité</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Installer des panneaux solaires sur les nouveaux bâtiments municipaux</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Poursuivre la modernisation de l'éclairage public et assurer le confort et la sécurité des déplacements</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Intensifier notre politique de réduction des déchets : composteur collectif, collecte des biodéchets, fontaine à eau, événement écoresponsable…</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Lutter contre le gaspillage alimentaire et sensibiliser les enfants : ateliers, fresque du climat, jeux…</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Végétaliser les cours d'écoles</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Reconstituer le sentier dans Mezo Bras</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Continuer à bien gérer nos espaces naturels exceptionnels et sensibiliser le plus grand nombre au respect de la biodiversité</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Végétaliser les abords de la mairie et rendre attrayante l'entrée du Passage du Triangle</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Créer un parc arboré et ludique à La Clarté</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(0, 188, 212, 0.3); margin: 1.5rem 0;">
+
+                <!-- Mobilités et accessibilité -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--cyan); margin-bottom: 0.5rem;">Mobilités et accessibilité</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Faciliter les déplacements de tous dans le respect de l'environnement.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Sécuriser les cheminements piétons, notamment autour des écoles et des collèges</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Porter à 2,5 millions d'euros l'investissement annuel pour la rénovation et la sécurisation de nos voiries, conformément au Plan Pluriannuel d'Investissement</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Poursuivre la mise en œuvre du plan des mobilités douces engagé depuis 2024</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Entretenir et valoriser les cheminements piétons entre quartiers et vers les plages, en améliorant l'accessibilité des Personnes à Mobilité Réduite (rampes) et la signalisation au sol</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Créer six points de rendez-vous de covoiturage répartis sur la commune</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(0, 188, 212, 0.3); margin: 1.5rem 0;">
+
+                <!-- Équipements et services publics -->
+                <div>
+                    <h4 style="color: var(--cyan); margin-bottom: 0.5rem;">Équipements et services publics</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Moderniser nos équipements pour un service public efficace et accessible.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Construire des équipements structurants : Maison du tourisme et des loisirs, Halle couverte, Services Techniques (Kergadic), Espace d'activités maritimes (Théo David)</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Rénover et valoriser le patrimoine bâti : Maison du Littoral, chapelle de La Clarté, Moulin de la Lande du Crac'h, Espace Elvire Choureau (ancienne Poste de Ploumanac'h), mur du moulin à marée de Ploumanac'h</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Rénover les logements sociaux de Kervoilan</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Remplacer les pontons du bassin à flot</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Créer des toilettes publiques supplémentaires (Trestrignel, port de Ploumanac'h et Pors Kamor)</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Renforcer les effectifs de la police municipale</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Continuer à renforcer la protection de nos systèmes informatiques contre les cyberattaques</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Mettre en œuvre le Plan Communal de Sauvegarde pour protéger les habitants en cas de crise (tempête, submersion marine, incendie…)</li>
+                        <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Mettre en œuvre les décisions prises par le groupe de travail pour le port de Ploumanac'h</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- UNE VILLE VIVANTE -->
+    <section id="vivante" class="section section-alt" style="scroll-margin-top: 100px;">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-subtitle" style="color: var(--bleu-marine);">Engagement 3</span>
+                <h2>Une ville vivante</h2>
+                <p style="font-style: italic;">Une ville qui bouge, une ville qui rassemble</p>
+                <p style="max-width: 900px; margin: 1rem auto 0; font-size: 1.1rem; line-height: 1.7;">Perros-Guirec est une ville de rencontres, de pratiques, de talents. Une ville qui vit toute l'année, qui donne envie de s'impliquer, de créer, de rester. Notre ambition est claire : renforcer l'énergie collective, soutenir les initiatives et offrir à chacun des espaces pour s'exprimer, bouger et partager.</p>
+            </div>
+
+            <div class="card" style="border-left: 4px solid var(--bleu-marine); max-width: 900px; margin: 0 auto; text-align: center;">
+                <!-- Sport, bien-être et vitalité -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--bleu-marine); margin-bottom: 0.5rem;">Sport, bien-être et vitalité</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Faire de Perros-Guirec une ville sportive accessible à tous.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Rénover et moderniser les équipements existants : gymnase de Kerabram, city stade, local de surf…</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Développer de nouveaux équipements de proximité : padel, calisthenics, pump track, beach-volley, fitness extérieur…</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Soutenir les clubs sportifs et les événements fédérateurs</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Accueillir les événements sportifs inspirants, sur terre et sur mer</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(61, 74, 92, 0.2); margin: 1.5rem 0;">
+
+                <!-- Culture, patrimoine et expressions -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--bleu-marine); margin-bottom: 0.5rem;">Culture, patrimoine et expressions</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Valoriser notre identité bretonne et s'ouvrir sur le monde.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Encourager les expressions artistiques dans l'espace public : défi créatif urbain, concours photo à thème, fresque éphémère…</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Organiser des rencontres sur les cultures, les langues et les modes de vie d'autres pays</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Créer un parcours de découverte du patrimoine : signalétique, outils numériques, jeux familiaux, escape game…</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Animer la Halle : concerts, expositions, marchés gourmands…</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Réhabiliter, moderniser et rendre accessible le Palais des Congrès aux Personnes à Mobilité Réduite</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(61, 74, 92, 0.2); margin: 1.5rem 0;">
+
+                <!-- Économie locale et entrepreneuriat -->
+                <div style="margin-bottom: 2rem;">
+                    <h4 style="color: var(--bleu-marine); margin-bottom: 0.5rem;">Économie locale et entrepreneuriat</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Stimuler l'initiative, soutenir l'activité, construire une économie résiliente et ancrée.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Accompagner les porteurs de projets souhaitant s'implanter à Perros-Guirec</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Organiser des rencontres thématiques entre entrepreneurs, commerçants et artisans</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Travailler avec les commerçants et les associations pour dynamiser tous les quartiers en lien avec la Maison du tourisme et des loisirs</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Présenter à la population tous projets structurants pour recueillir leurs avis</li>
+                    </ul>
+                </div>
+
+                <hr style="border: none; border-top: 1px solid rgba(61, 74, 92, 0.2); margin: 1.5rem 0;">
+
+                <!-- Vie de quartier et lien social -->
+                <div>
+                    <h4 style="color: var(--bleu-marine); margin-bottom: 0.5rem;">Vie de quartier et lien social</h4>
+                    <p style="font-style: italic; color: var(--granite); margin-bottom: 1rem; font-size: 0.95rem;">Faire de chaque quartier un espace d'échange, d'innovation et de participation active.</p>
+                    <ul style="list-style: none; padding: 0; line-height: 2; text-align: left;">
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Renforcer les outils d'information municipaux (application mobile, newsletter)</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Accueillir de nouveaux habitants via un pack de bienvenue et des temps de rencontre</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Encourager les fêtes de voisinage et les services entre habitants</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Ouvrir des commissions municipales aux citoyens (commissions culturelle, jeunesse et sport, nautisme, permis de construire…)</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Ouvrir un espace numérique pour les créateurs et curieux, ouvert à tous (vidéo, IA, numérique, réalité virtuelle)</li>
+                        <li><span style="color: var(--bleu-marine); margin-right: 0.5rem;">●</span>Installer une boîte à idées dans chaque lieu d'accueil municipal pour recueillir les suggestions des habitants</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Logement et urbanisme -->
+    <section class="section" style="background: linear-gradient(135deg, var(--magenta) 0%, var(--bleu-ocean) 100%); padding: 4rem 0;">
+        <div class="container">
+            <div style="max-width: 900px; margin: 0 auto;">
+                <div class="card" style="border: none; padding: 2.5rem; box-shadow: 0 8px 30px rgba(0,0,0,0.15);">
+                    <div style="text-align: center; margin-bottom: 2rem;">
+                        <h3 style="color: var(--bleu-ocean); margin-bottom: 0.5rem; font-size: 1.8rem;">Logement et urbanisme</h3>
+                        <p style="font-style: italic; color: var(--granite); font-size: 1.1rem;">Comprendre les règles, agir dans les marges</p>
+                    </div>
+
+                    <p style="font-size: 1.1rem; margin-bottom: 1.5rem; line-height: 1.7;">La politique du logement est un levier essentiel pour l'avenir de Perros-Guirec. Elle conditionne l'installation des familles, l'équilibre entre résidences principales et secondaires, et la vitalité de notre territoire tout au long de l'année.</p>
+
+                    <p style="font-size: 1.05rem; margin-bottom: 1.5rem; line-height: 1.7; color: var(--granite);">L'action municipale en matière d'urbanisme s'inscrit dans un cadre réglementaire strict et contraignant : SCOT, PLUiH (qui remplacera le PLU communal fin 2026), deux Sites Patrimoniaux Remarquables avec PVAP approuvé en 2025, 11 Périmètres Délimités des Abords, Zéro Artificialisation Nette, réglementations littorales et environnementales, contraintes liées aux risques naturels.</p>
+
+                    <p style="font-size: 1.1rem; margin-bottom: 2rem; line-height: 1.7; font-weight: 600; color: var(--bleu-ocean);">Ces règles ne sont ni facultatives, ni contournables. Notre rôle est de les appliquer avec rigueur et équité, tout en accompagnant les habitants dans leurs projets.</p>
+
+                    <div style="background: rgba(0, 188, 212, 0.08); padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem;">
+                        <h4 style="color: var(--cyan); margin-bottom: 1rem; text-align: center;">Nos engagements</h4>
+                        <ul style="list-style: none; padding: 0; line-height: 2;">
+                            <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Renforcer l'information des habitants sur les règles d'urbanisme applicables à leur projet</li>
+                            <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Accompagner chacun dans ses démarches, avec écoute et transparence</li>
+                            <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Maintenir des temps d'échange réguliers avec les services instructeurs</li>
+                            <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Consulter les habitants via les enquêtes publiques, comme nous l'avons fait à onze reprises entre 2020 et 2026</li>
+                            <li><span style="color: var(--cyan); margin-right: 0.5rem;">●</span>Assumer des choix cohérents et lisibles dans la durée</li>
+                        </ul>
+                    </div>
+
+                    <p style="color: var(--granite); margin-bottom: 2rem; font-size: 1.05rem; text-align: center;"><em>« Conduire l'action municipale, ce n'est pas promettre l'impossible. C'est dire la vérité, assumer des choix cohérents pour l'avenir de Perros-Guirec et agir en s'appuyant sur les réglementations en vigueur. »</em></p>
+
+                    <div style="text-align: center;">
+                        <p style="font-weight: 600; color: var(--bleu-ocean); margin-bottom: 1rem;">Pour aller plus loin :</p>
+                        <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+                            <a href="logement.html" class="btn" style="background: linear-gradient(135deg, var(--cyan) 0%, var(--bleu-ocean) 100%); color: white; padding: 0.8rem 1.5rem; font-size: 1rem; border: none; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
+                                Un logement pour tous →
+                            </a>
+                            <a href="urbanisme.html" class="btn" style="background: linear-gradient(135deg, var(--cyan) 0%, var(--bleu-ocean) 100%); color: white; padding: 0.8rem 1.5rem; font-size: 1rem; border: none; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
+                                Comprendre les règles →
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to action -->
+    <section class="section section-alt">
+        <div class="container">
+            <div class="don-section" style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.1) 0%, rgba(230, 0, 126, 0.05) 100%); border: 1px solid rgba(0, 188, 212, 0.2);">
+                <h3>Ensemble, construisons l'avenir de Perros-Guirec</h3>
+                <p>Vous avez des questions sur notre programme ? Venez échanger avec nous lors de nos permanences ou réunions publiques.</p>
                 <div class="hero-buttons">
-                    <a href="contact.html" class="btn btn-accent">Nous contacter</a>
-                    <a href="actualites.html" class="btn btn-secondary" style="color: var(--bleu-ocean); border-color: var(--bleu-ocean);">Suivre l'actualité</a>
+                    <a href="actualites.html" class="btn btn-accent">Voir l'agenda</a>
+                    <a href="contact.html" class="btn btn-secondary" style="color: var(--bleu-ocean); border-color: var(--bleu-ocean);">Nous contacter</a>
                 </div>
             </div>
         </div>
@@ -83,6 +407,18 @@
         document.querySelector('.nav-toggle').addEventListener('click', function() {
             document.querySelector('.nav-mobile').classList.toggle('active');
             this.classList.toggle('active');
+        });
+
+        // Protection contre la copie
+        document.addEventListener('contextmenu', function(e) {
+            if (!e.target.closest('.header, .footer, a, .btn')) {
+                e.preventDefault();
+            }
+        });
+        document.addEventListener('copy', function(e) {
+            if (!e.target.closest('.header, .footer')) {
+                e.preventDefault();
+            }
         });
     </script>
 </body>
