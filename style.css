@@ -541,10 +541,17 @@ img {
 .actu-card {
     position: relative;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.actu-card p {
+    flex: 1;
 }
 
 .actu-date {
     display: inline-block;
+    align-self: flex-start;
     background: var(--turquoise);
     color: white;
     padding: 0.5rem 1rem;
