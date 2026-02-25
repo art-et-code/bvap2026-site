@@ -18,6 +18,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600;700&family=Oswald:wght@500;600;700&family=Caveat:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/png" href="images/Elements%20graphiques_FAVICON%20Fond%20clair.png">
+    <style>
+        /* Protection contre la copie */
+        main, article, .section, .container p, .container li, .container h2, .container h3 {
+            user-select: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+        }
+        /* Garder la sélection pour le header, footer et boutons */
+        .header, .footer, .btn, a {
+            user-select: auto;
+            -webkit-user-select: auto;
+        }
+    </style>
 </head>
 <body>
     <header class="header">
