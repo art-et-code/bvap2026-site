@@ -60,6 +60,13 @@
         </div>
     </section>
 
+    <!-- Bouton À la une -->
+    <div style="text-align: center; padding: 2rem 0; background: white;">
+        <a href="#actus" onclick="var el=document.getElementById('actus');var y=el.getBoundingClientRect().top+window.pageYOffset-80;window.scrollTo({top:y,behavior:'smooth'});return false;" class="btn btn-primary" style="background: var(--magenta); color: white; border: 2px solid var(--magenta);">
+            Voir nos actualités récentes ↓
+        </a>
+    </div>
+
     <section class="section" style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.08) 0%, rgba(61, 74, 92, 0.05) 100%);">
         <div class="container">
             <!-- Photo de groupe -->
@@ -69,7 +76,7 @@
             </div>
             <div style="max-width: 900px; margin: 0 auto; text-align: center;">
                 <img src="images/photo-groupe-accueil.jpg" alt="L'équipe Bien Vivre à Perros" style="width: 100%; border-radius: 12px; box-shadow: 0 6px 25px rgba(0,0,0,0.15);">
-                <p style="margin-top: 1rem;"><a href="equipe.html" class="btn btn-secondary" style="color: var(--bleu-ocean); border-color: var(--bleu-ocean);">Découvrir l'équipe →</a></p>
+                <p style="margin-top: 1rem;"><a href="equipe.html" class="btn btn-primary" style="border: 2px solid var(--bleu-ocean);">Découvrir l'équipe →</a></p>
             </div>
         </div>
     </section>
@@ -102,7 +109,7 @@
         </div>
     </section>
 
-    <section class="section section-alt">
+    <section id="actus" class="section section-alt">
         <div class="container">
             <!-- Actualités récentes -->
             <div class="section-header">
@@ -157,6 +164,7 @@
                     <span style="color: var(--cyan); font-weight: 600;">Lire l'article →</span>
                 </a>
             </div>
+            <p style="text-align: center; margin-top: 2rem;"><a href="actualites.html" class="btn btn-primary" style="border: 2px solid var(--bleu-ocean);">Voir toutes les actualités →</a></p>
         </div>
     </section>
 
@@ -192,7 +200,7 @@
             <!-- Documents de campagne -->
             <div class="card" style="max-width: 600px; margin: 2rem auto 0; text-align: center; border-left: 4px solid var(--cyan); padding: 1.5rem;">
                 <p style="font-size: 1.05rem; margin-bottom: 1rem;">Consultez nos documents et notre actualité presse.</p>
-                <a href="presse.html" class="btn btn-primary">Espace presse →</a>
+                <a href="presse.html" class="btn btn-primary" style="border: 2px solid var(--bleu-ocean);">Espace presse →</a>
             </div>
         </div>
     </section>
@@ -204,7 +212,7 @@
                 <p>Votre soutien est précieux pour mener une campagne au plus près des habitants. Rejoignez-nous !</p>
                 <div class="hero-buttons">
                     <a href="contact.html#don" class="btn btn-accent">Faire un don</a>
-                    <a href="contact.html" class="btn btn-secondary" style="color: var(--bleu-ocean); border-color: var(--bleu-ocean);">Nous contacter</a>
+                    <a href="contact.html" class="btn btn-primary" style="border: 2px solid var(--bleu-ocean);">Nous contacter →</a>
                 </div>
             </div>
         </div>
