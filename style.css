@@ -1388,19 +1388,25 @@ img {
 
 /* Bouton Imprimer */
 .btn-print {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    background: var(--bleu-ocean);
-    color: white;
-    border: none;
+    background: var(--bleu-ocean) !important;
+    color: white !important;
+    border: none !important;
+    outline: none;
     padding: 0.7rem 1.5rem;
-    border-radius: 25px;
+    border-radius: 25px !important;
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.95rem;
     font-weight: 600;
     cursor: pointer;
     transition: opacity 0.2s;
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(61, 74, 92, 0.3);
 }
 .btn-print:hover {
     opacity: 0.85;
