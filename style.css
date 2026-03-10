@@ -1385,3 +1385,59 @@ img {
     font-style: italic;
     color: var(--bleu-ocean);
 }
+
+/* Bouton Imprimer */
+.btn-print {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--bleu-ocean);
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    border-radius: 25px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+.btn-print:hover {
+    opacity: 0.85;
+}
+
+/* Styles d'impression */
+@media print {
+    .header, .footer, .nav-mobile, .nav-toggle, .btn-print, .wave,
+    .page-header p, a.btn {
+        display: none !important;
+    }
+    .page-header {
+        background: none !important;
+        color: var(--bleu-ocean) !important;
+        padding: 1rem 0 !important;
+        min-height: auto !important;
+    }
+    .page-header h1 {
+        color: var(--bleu-ocean) !important;
+        font-size: 1.6rem !important;
+    }
+    .section {
+        padding: 0.5rem 0 !important;
+    }
+    body {
+        font-size: 11pt;
+        line-height: 1.5;
+    }
+    img {
+        max-width: 100% !important;
+        page-break-inside: avoid;
+    }
+    h2 {
+        page-break-after: avoid;
+    }
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
