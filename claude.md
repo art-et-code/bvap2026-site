@@ -13,7 +13,7 @@ Site web de campagne pour la liste **"Bien Vivre à Perros, aujourd'hui et demai
 ## Structure du site
 
 ### Pages HTML
-- `index.html` - Page d'accueil (photo équipe, engagements, actualités, agenda)
+- `index.html` - Page d'accueil (photo équipe, engagements, actualités récentes, agenda)
 - `programme.html` - Programme complet (3 engagements + logement/urbanisme)
 - `logement.html` - Article "Un logement pour tous"
 - `urbanisme.html` - Article "Comprendre les règles d'urbanisme"
@@ -24,9 +24,18 @@ Site web de campagne pour la liste **"Bien Vivre à Perros, aujourd'hui et demai
 - `contact.html` - Contact et dons
 - `mentions-legales.html` - Mentions légales
 
+### Pages d'actualités
+- `actu-12-ans-action.html` - 12 ans d'action pour les Perrosiens
+- `actu-batiment-communal.html` - Le nouveau bâtiment communal (Maison du tourisme)
+- `actu-circulation-ploumanach.html` - La circulation à Ploumanac'h
+- `actu-offre-de-soins.html` - L'offre de soins
+- `actu-services-techniques.html` - Les services techniques
+- `actu-traou-costiou.html` - Le quartier de Traou Costiou
+
 ### Dossiers
 - `images/` - Images du site (logos, éléments graphiques, photo-groupe-accueil.jpg)
 - `images/presse/` - Articles de presse (scans)
+- `images/actus/` - Images des pages d'actualités
 - `a-publier/` - Contenus à publier
   - `photos/` - Photos de campagne (galerie)
   - `communiques/` - Communiqués de presse (PDF)
@@ -55,6 +64,12 @@ Site web de campagne pour la liste **"Bien Vivre à Perros, aujourd'hui et demai
 - Ton professionnel et institutionnel
 - Respect du RGPD (pas de données personnelles sans consentement)
 
+### Boutons
+- Standard : `class="btn btn-primary" style="border: 2px solid var(--bleu-ocean);"`
+- Accent (magenta) : `class="btn btn-primary" style="background: var(--magenta); color: white; border: 2px solid var(--magenta);"`
+- Accent (cyan) : `class="btn btn-accent"`
+- Les pages d'actus ont un bouton Imprimer/PDF : `class="btn-print"` avec `onclick="window.print()"`
+
 ### Noms de fichiers presse
 Format : `YYYY-MM-DD-Source-Titre.extension`
 Exemple : `2026-01-28-Le-Telegramme-La-place-Chez-Titine-fait-peau-neuve.jpeg`
@@ -69,6 +84,13 @@ Exemple : `2026-01-28-Le-Telegramme-La-place-Chez-Titine-fait-peau-neuve.jpeg`
 1. Ajouter les fichiers dans `a-publier/`
 2. Mettre à jour le HTML correspondant
 3. Commit sur `dev` puis merge sur `main`
+
+### Publication des actualités
+Quand on ajoute une actu :
+1. Créer la page `actu-xxx.html`
+2. Ajouter la carte dans `actualites.html` (section "Dernières actualités")
+3. Ajouter la carte dans `index.html` (section "Actualités récentes", 3 plus récentes)
+4. Les actus peuvent être masquées avec des commentaires HTML `<!-- ACTUS À RENDRE VISIBLES ... -->`
 
 ### Publication différée
 Pour publier une page plus tard (ex: programme) :
