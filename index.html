@@ -60,6 +60,16 @@
         </div>
     </section>
 
+    <!-- Bandeau remerciements -->
+    <div style="background: var(--bleu-ocean); color: white; padding: 2.5rem 1.5rem; text-align: center;">
+        <div style="max-width: 800px; margin: 0 auto;">
+            <h2 style="font-family: 'Playfair Display', serif; font-size: 1.8rem; margin-bottom: 1rem; color: white;">Merci à vous.</h2>
+            <p style="font-family: 'Source Sans 3', sans-serif; font-size: 1.05rem; line-height: 1.7; margin-bottom: 1rem;">Les 15 et 22 mars, vous nous avez renouvelé votre confiance. Au nom de toute l'équipe « Bien Vivre à Perros, aujourd'hui et demain », nous tenons à remercier chaleureusement chacune et chacun d'entre vous — celles et ceux qui ont voté pour nous, mais aussi tous les Perrosiens qui ont participé au débat démocratique tout au long de cette campagne.</p>
+            <p style="font-family: 'Source Sans 3', sans-serif; font-size: 1.05rem; line-height: 1.7; margin-bottom: 1.5rem;">Nous sommes honorés de la mission que vous nous confiez. Nous nous engageons à être à la hauteur de votre confiance, pour tous les Perrosiens.</p>
+            <p style="font-family: 'Caveat', cursive; font-size: 1.3rem;">Erven Léon et l'ensemble de la liste</p>
+        </div>
+    </div>
+
     <!-- Bouton À la une -->
     <div style="text-align: center; padding: 2rem 0; background: white;">
         <a href="#actus" onclick="var el=document.getElementById('actus');var y=el.getBoundingClientRect().top+window.pageYOffset-80;window.scrollTo({top:y,behavior:'smooth'});return false;" class="btn btn-primary" style="background: var(--magenta); color: white; border: 2px solid var(--magenta);">
@@ -115,13 +125,6 @@
             <div class="section-header">
                 <span class="section-subtitle">À la une</span>
                 <h2>Actualités récentes</h2>
-            </div>
-
-            <!-- Alerte procuration -->
-            <div class="card" style="max-width: 700px; margin: 0 auto 2rem; text-align: center; background: linear-gradient(135deg, rgba(232, 56, 116, 0.08) 0%, rgba(0, 188, 212, 0.05) 100%); border-left: 4px solid var(--magenta); padding: 2rem;">
-                <h3 style="color: var(--magenta); margin-bottom: 1rem;">Absent(e) le 22 mars ?</h3>
-                <p style="font-size: 1.1rem; margin-bottom: 1rem;">Établissez votre procuration sur <a href="https://www.maprocuration.gouv.fr" target="_blank" style="color: var(--cyan); text-decoration: underline;">maprocuration.gouv.fr</a></p>
-                <p style="font-weight: 600; color: var(--bleu-ocean); font-size: 1.1rem;">Votre voix compte !</p>
             </div>
 
             <div class="grid grid-3">
@@ -186,24 +189,11 @@
                 <h2>Prochains rendez-vous</h2>
             </div>
 
-            <div class="grid grid-3">
-                <article class="card actu-card" style="border-left: 4px solid var(--magenta);">
-                    <span class="actu-date">Vendredi 20 mars à 18h30</span>
-                    <h3>Réunion publique</h3>
-                    <p>Venez nous retrouver avant le second tour ! Rendez-vous au Palais des Congrès.</p>
-                    <a href="actualites.html">Voir l'agenda complet →</a>
-                </article>
-                <article class="card actu-card" style="border-left: none; background: linear-gradient(135deg, var(--magenta) 0%, var(--bleu-ocean) 100%); color: white; text-align: center;">
-                    <span class="actu-date" style="color: rgba(255,255,255,0.85);">Dimanche 22 mars</span>
-                    <h3 style="font-size: 1.4rem; color: white;">2ᵉ tour des élections</h3>
-                    <p style="font-size: 1.15rem; font-weight: 600; color: white;">Je vote Bien Vivre à Perros !</p>
-                    <a href="https://www.service-public.fr/particuliers/vosdroits/F34687" target="_blank" style="color: white; text-decoration: underline; font-weight: 600;">Je trouve mon bureau de vote →</a>
-                </article>
-                <article class="card actu-card" style="border-left: 4px solid var(--cyan);">
-                    <span class="actu-date">Jusqu'au 21 mars</span>
-                    <h3>Permanences au local</h3>
-                    <p>Retrouvez-nous au 9 rue de la Poste. Mercredi, vendredi, samedi et dimanche.</p>
-                    <a href="actualites.html">Voir les horaires →</a>
+            <div style="max-width: 500px; margin: 0 auto;">
+                <article class="card actu-card" style="border-left: 4px solid var(--cyan); text-align: center;">
+                    <span class="actu-date">Vendredi 27 mars à 18h30</span>
+                    <h3>1ᵉʳ conseil municipal</h3>
+                    <p>Installation du nouveau conseil municipal de Perros-Guirec.</p>
                 </article>
             </div>
 
@@ -211,19 +201,6 @@
             <div class="card" style="max-width: 600px; margin: 2rem auto 0; text-align: center; border-left: 4px solid var(--cyan); padding: 1.5rem;">
                 <p style="font-size: 1.05rem; margin-bottom: 1rem;">Consultez nos documents et notre actualité presse.</p>
                 <a href="presse.html" class="btn btn-primary" style="border: 2px solid var(--bleu-ocean);">Espace presse →</a>
-            </div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container">
-            <div class="don-section" style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.1) 0%, rgba(230, 0, 126, 0.05) 100%); border: 1px solid rgba(0, 188, 212, 0.2);">
-                <h3>Ensemble, faisons vivre la démocratie locale</h3>
-                <p>Votre soutien est précieux pour mener une campagne au plus près des habitants. Rejoignez-nous !</p>
-                <div class="hero-buttons">
-                    <a href="contact.html#don" class="btn btn-accent">Faire un don</a>
-                    <a href="contact.html" class="btn btn-primary" style="border: 2px solid var(--bleu-ocean);">Nous contacter →</a>
-                </div>
             </div>
         </div>
     </section>
